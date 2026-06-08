@@ -166,7 +166,7 @@ In the demo, explain that Phoenix MCP gives the agent access to its own traces, 
 
 ## Devpost Summary
 
-MatchDayOps is a Gemini-powered operations agent for 2026 World Cup fans. It helps families plan safer and more affordable match days by combining budget estimation, transit planning, crowd-risk assessment, and itinerary generation. The project integrates Arize Phoenix observability through OpenInference-compatible tracing and includes a self-improvement loop where evaluations are saved and used in future runs.
+Omnitrip is a Gemini-powered operations agent for travellers. It helps families plan safer and more affordable travel plan by combining budget estimation, transit planning, crowd-risk assessment, and itinerary generation. The project integrates Arize Phoenix observability through OpenInference-compatible tracing and includes a self-improvement loop where evaluations are saved and used in future runs.
 
 ## License
 
