@@ -1,0 +1,81 @@
+{
+  "goal": "Plan a romantic 4-day trip to Paris for a couple.",
+  "start_city": "New York",
+  "city": "Paris",
+  "people": 2,
+  "nights": 3,
+  "duration_days": 4,
+  "budget": {
+    "overall_total": 3608,
+    "flight_details": {
+      "category": "Flight Estimate",
+      "cost_per_person": 800,
+      "total_flight_cost": 1600
+    },
+    "breakdown": {
+      "flights": 1600,
+      "lodging": 600,
+      "meals_and_dining": 560,
+      "local_transport": 200,
+      "activities_and_tours": 320,
+      "emergency_buffer": 328
+    }
+  },
+  "transit": {
+    "recommended": "Metro & Walking",
+    "backup": "Rideshare apps (Uber/Grab/Bolt)",
+    "tip": "Get a local city-pass for unlimited travel."
+  },
+  "travel_risk": {
+    "safety_level": "Low",
+    "considerations": [
+      "Check current travel advisories",
+      "Keep a digital copy of your passport",
+      "Use a secure VPN for public Wi-Fi",
+      "Research local emergency numbers"
+    ]
+  },
+  "itinerary": [
+    {
+      "day": 1,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    },
+    {
+      "day": 2,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    },
+    {
+      "day": 3,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    },
+    {
+      "day": 4,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    }
+  ],
+  "final_plan": "## OmniTrip: Romantic Parisian Escape Dossier\n\n**Destination:** **Paris**, France\n**Travelers:** 2 Adults\n**Duration:** 3 Nights / 4 Days\n**Route:** New York ✈️ Paris\n\nWelcome to OmniTrip, your premier global travel consultant. We are delighted to present a meticulously crafted dossier for your romantic 4-day escapade to **Paris**, the City of Love. This itinerary is designed to immerse you in the enchanting ambiance, iconic landmarks, and exquisite culinary experiences that define the Parisian charm, ensuring an unforgettable journey for you and your partner.\n\n---\n\n### **Proposed Itinerary: A Romantic Journey Through Paris**\n\nThis itinerary balances iconic sightseeing with moments of intimate discovery, tailored for a romantic couple.\n\n**Day 1: Arrival & Iconic Beginnings**\n*   **Morning/Afternoon:** Arrive at Charles de Gaulle Airport (CDG). Private transfer to your elegant Parisian accommodation (e.g., in Saint-Germain-des-Prés or Le Marais). Check-in and refresh.\n*   **Late Afternoon:** A leisurely stroll along the **Seine River**, soaking in the Parisian atmosphere.\n*   **Evening:** Experience the magic of the **Eiffel Tower** with a pre-booked entry, followed by a romantic gourmet dinner at a restaurant with stunning tower views. Conclude the evening with an enchanting **Seine River cruise** as the city lights illuminate.\n\n**Day 2: Art, Gardens & Bohemian Charm**\n*   **Morning:** Immerse yourselves in world-class art at the **Louvre Museum**, focusing on masterpieces like the Mona Lisa and Venus de Milo. Consider a guided private tour for a more intimate experience.\n*   **Afternoon:** Relax and wander through the beautiful **Tuileries Garden**, followed by a stroll down the prestigious **Champs-Élysées** to the **Arc de Triomphe**.\n*   **Evening:** Journey to the artistic quarter of **Montmartre**. Explore the charming cobbled streets, discover local artists, and visit the majestic **Sacré-Cœur Basilica** for panoramic city views at sunset. Enjoy a traditional French dinner in a cozy Montmartre bistro.\n\n**Day 3: History, Culture & Parisian Elegance**\n*   **Morning:** Visit the exterior of the iconic **Notre Dame Cathedral** and explore the historic **Latin Quarter**, with its lively student atmosphere, bookstores, and quaint cafes.\n*   **Afternoon:** Indulge in more artistic brilliance at the **Musée d'Orsay**, housed in a magnificent former railway station, showcasing Impressionist and Post-Impressionist masterpieces.\n*   **Evening:** A refined dining experience at a Michelin-starred restaurant, savoring the haute cuisine of Paris, followed by an evening walk to enjoy the illuminated city.\n\n**Day 4: Farewell & Fond Memories**\n*   **Morning:** Enjoy a quintessential Parisian breakfast at a local café, perhaps indulging in fresh croissants and coffee. Spend your last hours with some leisurely boutique shopping or a final stroll through a beloved neighborhood.\n*   **Late Morning/Afternoon:** Private transfer to Charles de Gaulle Airport (CDG) for your departure, carrying cherished memories of your romantic Parisian escape.\n\n---\n\n### **Budget Overview: A Seamless Parisian Experience**\n\nThis budget estimate provides a comprehensive financial outline for your 4-day romantic trip, ensuring transparency and thorough planning.\n\n**Flight Estimation Logic:** The flight estimates were calculated based on current market trends for round-trip economy class travel for two individuals departing from **New York** (JFK/EWR) to Paris (CDG), typically reflecting prices found when booking approximately 3-6 months in advance. These costs are subject to change based on booking lead time, season, and airline choice.\n\n| Category             | Cost    | Description                                                                                                                                                                                                |\n| :------------------- | :------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |\n| Flight Estimate      | $1600   | Round-trip airfare for two adults from New York to Paris. (Estimated at $800 per person)                                                                                                                   |\n| Lodging (3 Nights)   | $600    | Accommodation in a centrally located, boutique hotel or charming Parisian apartment (e.g., Saint-Germain-des-Prés, Le Marais), averaging $200 per night.                                                    |\n| Meals & Dining       | $560    | Covers a mix of romantic dinners, casual lunches, and classic Parisian breakfasts. (Approx. $70 per person per day)                                                                                        |\n| Local Transport      | $200    | Metro passes, occasional rideshare for convenience, and transfers to/from the airport.                                                                                                                   |\n| Activities & Tours   | $320    | Entrance fees for major attractions (Louvre, Musée d'Orsay, Eiffel Tower), Seine River cruise, and potential guided tours.                                                                             |\n| Emergency Buffer     | $328    | A 10% contingency fund for unforeseen expenses or spontaneous indulgences, ensuring peace of mind.                                                                                                       |\n| **GRAND TOTAL**      | **$3608** | **Total estimated cost for a 4-day romantic trip to Paris for two, excluding personal shopping and additional luxury upgrades.**                                                                    |\n\n---\n\n### **Transportation & Local Logistics**\n\nNavigating **Paris** is a delightful experience, especially with its efficient public transport system.\n\n*   **Recommended Transit:** The **Paris Metro** is highly efficient, extensive, and the best way to get around the city quickly. Walking is also highly recommended for exploring neighborhoods and discovering hidden gems, especially when combined with Metro use.\n*   **Backup Options:** Rideshare applications such as Uber or Bolt are readily available for convenience, particularly for late-night travel or when carrying luggage. Taxis are also easily accessible.\n*   **Expert Tip:** Consider purchasing a \"Paris Visite\" pass for unlimited travel on the metro, RER, bus, tram, and Montmartre Funicular, offering excellent value and convenience for the duration of your stay.\n\n---\n\n### **Safety & Risk Mitigation**\n\nWhile **Paris** generally presents a **Low** safety risk, it is always prudent to be aware and prepared.\n\n*   **General Safety:** Paris is a safe city for tourists, but like any major metropolitan area, petty crime (pickpocketing) can occur, especially in crowded tourist areas and on public transport.\n*   **Considerations & Mitigation Strategies:**\n    *   **Travel Advisories:** Always check current government travel advisories for France before and during your trip for any updates or specific local concerns.\n    *   **Document Security:** Keep a digital copy of your passport, visa (if applicable), and other important documents on your phone or in a cloud service, separate from physical copies.\n    *   **Cybersecurity:** When using public Wi-Fi networks (e.g., in cafés, hotels), it is advisable to use a secure Virtual Private Network (VPN) to protect your personal data.\n    *   **Emergency Contacts:** Research and save local emergency numbers (e.g., 112 for all emergencies in Europe) in your phone, and know the location of your country's embassy or consulate.\n    *   **Personal Belongings:** Be mindful of your belongings in crowded areas. Use an anti-theft bag and keep valuables out of sight.\n\n---\n\n### **Next Steps for Your Parisian Journey**\n\nTo ensure a seamless and unforgettable romantic getaway, we recommend the following immediate actions:\n\n1.  **Date Confirmation & Flight Booking:** Confirm your preferred travel dates and proceed with booking your flights from New York to Paris. We recommend securing these as soon as possible for the best rates.\n2.  **Visa & Entry Requirements:** Verify the latest visa and entry requirements for U.S. citizens (or your respective nationality) traveling to France, particularly concerning the ETIAS system once implemented.\n3.  **Accommodation Selection & Reservation:** Based on your preferences, finalize and book your desired hotel or apartment in Paris to secure your ideal romantic base.\n4.  **Detailed Itinerary Personalization & Activity Reservations:** Collaborate with your OmniTrip consultant to refine the itinerary, pre-book essential attractions (Eiffel Tower, Louvre), and make restaurant reservations.\n5.  **Travel Insurance Review:** Review and secure comprehensive travel insurance that covers medical emergencies, trip cancellations, and lost luggage for both travelers.",
+  "feedback_used": {
+    "score": 0.67,
+    "checks": {
+      "budget": true,
+      "safety": true,
+      "human_approval": false,
+      "next_actions": true,
+      "tool_evidence": true,
+      "risk_mitigation": false
+    },
+    "feedback": [
+      "Add human approval gates before spending money.",
+      "Name risks and backup plans."
+    ]
+  },
+  "saved_path": "outputs\\trip_run_20260606_231321.json"
+}

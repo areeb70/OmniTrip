@@ -1,0 +1,81 @@
+{
+  "goal": "Plan a romantic 4-day trip to Paris for a couple.",
+  "start_city": "New York",
+  "city": "New Delhi",
+  "people": 2,
+  "nights": 3,
+  "duration_days": 4,
+  "budget": {
+    "overall_total": 3960,
+    "flight_details": {
+      "category": "Flight Estimate",
+      "cost_per_person": 1200,
+      "total_flight_cost": 2400
+    },
+    "breakdown": {
+      "flights": 2400,
+      "lodging": 360,
+      "meals_and_dining": 320,
+      "local_transport": 200,
+      "activities_and_tours": 320,
+      "emergency_buffer": 360
+    }
+  },
+  "transit": {
+    "recommended": "General Public Transport",
+    "backup": "Rideshare apps (Uber/Grab/Bolt)",
+    "tip": "Get a local city-pass for unlimited travel."
+  },
+  "travel_risk": {
+    "safety_level": "Medium",
+    "considerations": [
+      "Check current travel advisories",
+      "Keep a digital copy of your passport",
+      "Use a secure VPN for public Wi-Fi",
+      "Research local emergency numbers"
+    ]
+  },
+  "itinerary": [
+    {
+      "day": 1,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    },
+    {
+      "day": 2,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    },
+    {
+      "day": 3,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    },
+    {
+      "day": 4,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    }
+  ],
+  "final_plan": "## OmniTrip Dossier: Romantic Parisian Escape\n\n**Introduction:**\n\nOmniTrip is delighted to present a meticulously crafted travel dossier for your romantic 4-day, 3-night escape to **Paris, France**. This itinerary focuses on combining the iconic grandeur of the city with intimate experiences, ensuring a memorable journey for two. From world-class art to charming cobblestone streets and exquisite dining, this plan encapsulates the essence of Parisian romance.\n\n---\n\n### Destination Overview: **Paris, France**\n\n*   **City:** Paris\n*   **Country:** France\n*   **Travelers:** 2 (Couple)\n*   **Duration:** 4 Days / 3 Nights\n*   **Departure City:** New York, USA\n\nOften referred to as the \"City of Love\" and the \"City of Lights,\" Paris offers an unparalleled blend of history, culture, and romance. Its iconic landmarks, charming neighborhoods, and culinary delights create the perfect backdrop for a couple seeking an unforgettable experience.\n\n---\n\n### Proposed Itinerary: A Romantic Journey Through Paris\n\nThis itinerary is designed to maximize your experience, blending iconic sights with opportunities for intimate moments.\n\n**Day 1: Arrival & Parisian Grandeur**\n\n*   **Morning/Afternoon:** Arrive at **Paris-Charles de Gaulle Airport (CDG)**. A pre-arranged private transfer will take you to your luxurious hotel, ideally situated in the charming districts of Saint-Germain-des-Prés or Le Marais. Check-in and allow time to refresh.\n*   **Late Afternoon:** Begin your exploration with a leisurely stroll through the magnificent **Tuileries Garden**, leading you towards the grandeur of the **Place de la Concorde**.\n*   **Evening:** Experience the breathtaking majesty of the **Eiffel Tower**. We recommend pre-booking tickets for an ascent. Conclude your day with a gourmet dinner at a restaurant offering stunning tower views, or indulge in a romantic Seine River dinner cruise.\n\n**Day 2: Art, History & Elegance**\n\n*   **Morning:** Immerse yourselves in the world of art at the renowned **Louvre Museum**. Focus on key masterpieces such as the Mona Lisa and the Venus de Milo, allowing ample time for appreciation.\n*   **Lunch:** Enjoy an elegant Parisian bistro lunch in the vicinity of the Louvre.\n*   **Afternoon:** Explore the serene gardens of the **Palais Royal** and its surrounding boutique shops. Afterwards, take a romantic walk along the iconic **Champs-Élysées**, culminating at the magnificent **Arc de Triomphe**.\n*   **Evening:** Savor a sophisticated dinner in the vibrant district of **Saint-Germain-des-Prés**, known for its literary cafes and exquisite dining, or attend a classical concert.\n\n**Day 3: Bohemian Charms & Panoramic Views**\n\n*   **Morning:** Discover the enchanting **Île de la Cité**, viewing the iconic **Notre Dame Cathedral** from outside (admiring its ongoing restoration), and then marvel at the dazzling stained-glass windows of Sainte-Chapelle.\n*   **Lunch:** Enjoy a quaint and authentic French lunch in the historic **Latin Quarter**.\n*   **Afternoon:** Ascend to the artistic heights of **Montmartre**. Visit the majestic **Sacré-Cœur Basilica** for unparalleled panoramic views of Paris. Wander through **Place du Tertre**, where local artists capture the city's spirit.\n*   **Evening:** Indulge in a romantic dinner in Montmartre, soaking in its bohemian atmosphere. For an iconic Parisian experience, consider a classic cabaret show.\n\n**Day 4: Leisurely Departure**\n\n*   **Morning:** Enjoy a leisurely Parisian breakfast at a charming local cafe, perhaps followed by some last-minute souvenir shopping or a visit to a beloved patisserie.\n*   **Afternoon:** A private transfer will take you from your hotel to **CDG Airport** for your comfortable departure, concluding your romantic Parisian adventure.\n\n---\n\n### Budgetary Overview: Your Parisian Romance\n\nBelow is a detailed breakdown of the estimated costs for your 4-day Parisian trip for two.\n*Please note: Flight estimates are based on round-trip airfare from **New York** to **Paris**.*\n\n| Category             | Cost (USD) | Description                                                                 |\n| :------------------- | :--------- | :-------------------------------------------------------------------------- |\n| Flight Estimate      | 2400       | Round-trip airfare for two adults from New York to Paris.                   |\n| Lodging              | 360        | 3 nights accommodation in a comfortable boutique hotel in Paris.            |\n| Meals & Dining       | 320        | Estimated costs for romantic meals, café visits, and culinary experiences.  |\n| Local Transport      | 200        | Metro passes, occasional rideshares, and transfers within the city.         |\n| Activities & Tours   | 320        | Entrance fees for museums, monuments, guided tours, and special experiences.|\n| Emergency Buffer     | 360        | Contingency fund for unforeseen expenses or spontaneous indulgences.        |\n| **GRAND TOTAL**      | **3960**   | **Estimated total for your 4-day romantic trip to Paris.**                  |\n\n---\n\n### Transportation Within Paris\n\n**Recommended:** The **Paris Metro** and extensive bus network are highly efficient and the best way to navigate the city. Consider purchasing a Navigo Découverte pass (if your stay aligns with its weekly validity) or a Carnet (pack of 10 tickets) for convenience. Walking is also highly encouraged to truly appreciate the city's beauty.\n\n**Backup:** Rideshare applications such as **Uber** are readily available throughout Paris, offering a comfortable alternative for specific routes or late-night travel.\n\n**Tip:** For unlimited travel and often discounts on attractions, explore options like the \"Paris Pass\" or \"Paris Museum Pass\" depending on your planned activities. This can streamline your travel and entry experiences.\n\n---\n\n### Safety & Risk Mitigation\n\n**Safety Level:** Medium\n\nWhile Paris is generally safe for tourists, it is prudent to be aware of your surroundings, especially in crowded areas.\n\n**Key Considerations and Mitigation Strategies:**\n\n*   **Travel Advisories:** Always check the latest travel advisories from your government before departure to stay informed about any current events or specific concerns.\n*   **Document Security:** Keep a digital copy of your passport, visas, and other important documents on your phone or in a cloud service, in addition to carrying physical copies separately from the originals.\n*   **Digital Security:** Utilize a secure Virtual Private Network (VPN) when connecting to public Wi-Fi networks to protect your personal data.\n*   **Emergency Contacts:** Research and save local emergency numbers (e.g., 112 for all emergencies in Europe) in your phone.\n*   **Petty Crime:** Be vigilant against pickpocketing, especially in major tourist areas like the Eiffel Tower, Louvre, and crowded Metro stations. Keep valuables secured and out of sight. Consider using a cross-body bag or money belt.\n*   **Travel Insurance:** We strongly recommend comprehensive travel insurance to cover potential medical emergencies, trip cancellations, lost luggage, and other unforeseen circumstances.\n\n---\n\n### Next Steps: Securing Your Parisian Dream\n\nTo ensure a seamless and unforgettable romantic getaway, we recommend the following professional next steps:\n\n1.  **Visa Requirements Confirmation:** Verify specific entry and visa requirements for **Paris, France** based on your nationality and passport details.\n2.  **Flight Reservations:** Secure your round-trip international flights from **New York** to **Paris**. Booking 3-6 months in advance often yields optimal pricing and availability.\n3.  **Accommodation Booking:** Finalize and reserve your preferred boutique hotel or romantic lodging in **Paris**, ensuring it aligns with your preferences and budget.\n4.  **Comprehensive Travel Insurance:** Arrange for a robust travel insurance policy that covers medical emergencies, trip interruptions, and baggage loss for both travelers.\n5.  **Pre-Trip Consultation:** Schedule a follow-up consultation with your OmniTrip consultant to refine the itinerary, confirm all bookings, and address any further questions you may have.",
+  "feedback_used": {
+    "score": 0.67,
+    "checks": {
+      "budget": true,
+      "safety": true,
+      "human_approval": false,
+      "next_actions": true,
+      "tool_evidence": true,
+      "risk_mitigation": false
+    },
+    "feedback": [
+      "Add human approval gates before spending money.",
+      "Name risks and backup plans."
+    ]
+  },
+  "saved_path": "outputs\\trip_run_20260608_215401.json"
+}

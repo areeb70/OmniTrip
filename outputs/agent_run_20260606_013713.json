@@ -1,0 +1,78 @@
+{
+  "goal": "Plan a safe and budget-friendly World Cup match day for my family.",
+  "city": "New Delhi",
+  "people": 4,
+  "nights": 2,
+  "kickoff": "18:00",
+  "budget": {
+    "lodging_usd": 360,
+    "meals_usd": 540,
+    "local_transit_usd": 216,
+    "recommended_buffer_usd": 167,
+    "estimated_total_usd": 1283,
+    "not_included": [
+      "match tickets",
+      "flights",
+      "visa/passport costs",
+      "travel insurance"
+    ]
+  },
+  "transit": {
+    "recommended": "public transit with rideshare backup",
+    "backup": "preselect a rideshare pickup point 15 minutes away from the stadium",
+    "human_check_required": "verify official stadium transit advisories on match morning"
+  },
+  "crowd_risk": {
+    "level": "medium",
+    "family_factor": "higher",
+    "kickoff": "18:00",
+    "mitigations": [
+      "arrive at least 2.5 hours early",
+      "choose a fixed meeting point outside the stadium",
+      "keep battery packs and offline maps ready",
+      "delay exit if crowding is heavy"
+    ]
+  },
+  "itinerary": [
+    {
+      "time": "09:00",
+      "action": "Check weather, stadium rules, bag policy, and transit alerts for New Delhi."
+    },
+    {
+      "time": "11:00",
+      "action": "Eat a full meal away from the stadium area to reduce cost and waiting."
+    },
+    {
+      "time": "13:00",
+      "action": "Start travel using public transit with rideshare backup."
+    },
+    {
+      "time": "15:30",
+      "action": "Arrive early, pass security, find seats, restrooms, exits, and meeting point."
+    },
+    {
+      "time": "18:00",
+      "action": "Watch the match."
+    },
+    {
+      "time": "post-match",
+      "action": "Wait for crowd pressure to drop, then leave using the planned route."
+    }
+  ],
+  "final_plan": "# MatchDayOps Plan For New Delhi\n\nGoal: create a safe, budget-aware match-day plan for 4 traveler(s), 2 night(s), kickoff at 18:00.\n\n## Budget\nEstimated local total: $1283\n\nThis includes lodging, meals, local transit, and a 15% buffer. It does not include match tickets, flights, visa/passport costs, or travel insurance.\n\n## Safety And Crowd Risks\nCrowd risk level: medium\n\nMitigations:\n- arrive at least 2.5 hours early\n- choose a fixed meeting point outside the stadium\n- keep battery packs and offline maps ready\n- delay exit if crowding is heavy\n\n## Transit\nRecommended route style: public transit with rideshare backup\n\nBackup: preselect a rideshare pickup point 15 minutes away from the stadium\n\nHuman approval needed before booking hotels, buying tickets, or committing to paid transport.\n\n## Match-Day Itinerary\n- 09:00: Check weather, stadium rules, bag policy, and transit alerts for New Delhi.\n- 11:00: Eat a full meal away from the stadium area to reduce cost and waiting.\n- 13:00: Start travel using public transit with rideshare backup.\n- 15:30: Arrive early, pass security, find seats, restrooms, exits, and meeting point.\n- 18:00: Watch the match.\n- post-match: Wait for crowd pressure to drop, then leave using the planned route.\n\n## Self-Improvement Note\nPrior evaluation feedback was used: Plan passes all local quality checks.\n\n## 5 Next Actions\n1. Confirm the exact stadium, match ticket entry gate, and official bag policy.\n2. Approve the estimated budget or set a lower maximum spend.\n3. Choose lodging within a reliable transit path to the stadium.\n4. Save offline maps, emergency contacts, and a post-match meeting point.\n5. Run this plan again after official match-day advisories are published.\n",
+  "feedback_used": {
+    "score": 1.0,
+    "checks": {
+      "budget": true,
+      "safety": true,
+      "human_approval": true,
+      "next_actions": true,
+      "tool_evidence": true,
+      "risk_mitigation": true
+    },
+    "feedback": [
+      "Plan passes all local quality checks."
+    ]
+  },
+  "saved_path": "outputs\\agent_run_20260606_013713.json"
+}

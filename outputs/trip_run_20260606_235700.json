@@ -1,0 +1,80 @@
+{
+  "goal": "Plan a work trip",
+  "start_city": "New York",
+  "city": "New Delhi",
+  "people": 5,
+  "nights": 5,
+  "duration_days": 4,
+  "budget": {
+    "overall_total": 10725,
+    "flight_details": {
+      "category": "Flight Estimate",
+      "cost_per_person": 1200,
+      "total_flight_cost": 6000
+    },
+    "breakdown": {
+      "flights": 6000,
+      "lodging": 600,
+      "meals_and_dining": 1200,
+      "local_transport": 750,
+      "activities_and_tours": 1200,
+      "emergency_buffer": 975
+    }
+  },
+  "transit": {
+    "recommended": "General Public Transport",
+    "backup": "Rideshare apps (Uber/Grab/Bolt)",
+    "tip": "Get a local city-pass for unlimited travel."
+  },
+  "travel_risk": {
+    "safety_level": "Medium",
+    "considerations": [
+      "Check current travel advisories",
+      "Keep a digital copy of your passport",
+      "Use a secure VPN for public Wi-Fi",
+      "Research local emergency numbers"
+    ]
+  },
+  "itinerary": [
+    {
+      "day": 1,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    },
+    {
+      "day": 2,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    },
+    {
+      "day": 3,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    },
+    {
+      "day": 4,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    }
+  ],
+  "final_plan": "## OmniTrip Travel Dossier: **New York** ✈️ **New Delhi** Work Trip\n\n**Prepared for:** Your Team\n**Date:** October 26, 2023\n**Subject:** High-End Work Trip Planning for **New Delhi**, India\n\n---\n\n### 1. Trip Overview\n\nOmniTrip is pleased to present your bespoke travel dossier for an upcoming work trip to **New Delhi**, India. This dossier outlines a professional and efficient itinerary, comprehensive budget, essential travel considerations, and actionable next steps for your team of five travelers. The trip is planned for 5 nights, providing 4 full days for productive work engagements and cultural immersion in India's vibrant capital.\n\n### 2. Destination Spotlight: **New Delhi**, India\n\n**New Delhi**, the capital city of India, is a bustling metropolis known for its rich history, diverse culture, and significant political importance. It offers a unique blend of ancient monuments, colonial architecture, modern infrastructure, and vibrant markets. For a work trip, **New Delhi** provides excellent connectivity, world-class conference facilities, and a plethora of cultural experiences that can be integrated into team-building or downtime.\n\n### 3. Proposed Itinerary\n\nThis itinerary is designed to offer a balance of exploration and potential for work-related activities, assuming a base for work during parts of the day.\n\n*   **Day 1:**\n    *   **Morning:** Arrival in **New Delhi**, transfer to accommodation, and settle in.\n    *   **Afternoon:** Local landmark exploration (e.g., India Gate, Rashtrapati Bhavan exterior).\n    *   **Evening:** Welcome dinner at a local establishment.\n*   **Day 2:**\n    *   **Morning:** Local landmark exploration (e.g., Humayun's Tomb or Qutub Minar).\n    *   **Afternoon:** Cultural activity or museum visit (e.g., National Museum).\n    *   **Evening:** Dinner and local leisure.\n*   **Day 3:**\n    *   **Morning:** Local landmark exploration (e.g., Lotus Temple or Akshardham Temple).\n    *   **Afternoon:** Cultural activity or museum visit (e.g., Crafts Museum or Gandhi Smriti).\n    *   **Evening:** Dinner and local leisure.\n*   **Day 4:**\n    *   **Morning:** Local landmark exploration (e.g., Chandni Chowk for market experience).\n    *   **Afternoon:** Cultural activity or museum visit (e.g., Red Fort exterior or Jama Masjid).\n    *   **Evening:** Farewell dinner at a high-end restaurant.\n*   **Day 5:**\n    *   **Morning:** Leisure time or last-minute souvenir shopping.\n    *   **Afternoon:** Transfer to Indira Gandhi International Airport (DEL) for departure.\n\n### 4. Transportation within **New Delhi**\n\nEfficient intra-city travel is key for a productive work trip.\n\n*   **Recommended:** Utilizing **General Public Transport**, particularly the **Delhi Metro**, which is modern, extensive, and air-conditioned, offers an efficient way to navigate the city. Consider obtaining a local city-pass for unlimited travel, which can significantly simplify commuting.\n*   **Backup Options:** Rely on reputable **Rideshare apps** such as Uber or Ola (a local equivalent) for convenience, especially for longer distances or during peak hours. Taxis are also readily available.\n\n### 5. Budget Analysis\n\nBelow is a detailed breakdown of the estimated costs for your work trip. Flight costs were estimated based on typical round-trip fares from **New York** (JFK/EWR) to **New Delhi** (DEL) for five travelers, averaging $1,200 per person.\n\n| Category           | Cost        | Description                                                                                             |\n| :----------------- | :---------- | :------------------------------------------------------------------------------------------------------ |\n| Flight Estimate    | $6,000      | Round-trip flights for 5 travelers (NYC ✈️ DEL) at an estimated $1,200 per person.                   |\n| Lodging            | $600        | Accommodation for 5 nights (e.g., business-class hotel rooms or serviced apartments).                   |\n| Meals & Dining     | $1,200      | Comprehensive meal expenses for 5 travelers over 4 full days, including business dinners.                 |\n| Local Transport    | $750        | Intra-city travel, airport transfers, and rideshare services for 5 travelers.                           |\n| Activities & Tours | $1,200      | Expenses for cultural activities, museum entrances, and potential guided tours for the team.             |\n| Emergency Buffer   | $975        | A contingency fund set aside for unforeseen expenses or adjustments.                                    |\n| **GRAND TOTAL**    | **$10,725** | **Estimated total cost for the 5-night, 4-day work trip to New Delhi for 5 travelers.**                 |\n\n### 6. Safety & Risk Mitigation\n\nThe safety level for travelers in **New Delhi** is assessed as Medium. To ensure a secure and smooth trip, please consider the following:\n\n*   **Current Travel Advisories:** Always check the latest travel advisories issued by your government prior to and during your trip.\n*   **Digital Passport Copies:** Keep a digital copy of your passport, visa, and other important documents securely stored on your phone or cloud service.\n*   **Secure VPN:** Utilize a secure VPN service when connecting to public Wi-Fi networks to protect sensitive data.\n*   **Emergency Numbers:** Research and save local emergency numbers (Police, Ambulance) for **New Delhi** before your arrival.\n\n---\n\n### Next Steps\n\nTo finalize your high-end work trip to **New Delhi**, OmniTrip recommends the following critical actions:\n\n1.  **Visa Requirements:** Immediately confirm and initiate the application process for Indian e-Visas or traditional visas for all five travelers, as this can take several weeks.\n2.  **Flight & Accommodation Bookings:** Secure your preferred flights from **New York** to **New Delhi** and book your chosen accommodation to leverage optimal pricing and availability.\n3.  **Travel Insurance:** Arrange comprehensive travel insurance for the entire team to cover medical emergencies, trip cancellations, and unforeseen circumstances.\n4.  **Health & Vaccinations:** Consult with a travel health professional regarding recommended vaccinations and health precautions for travel to India.\n5.  **Local Communications:** Prepare for local communication by arranging international roaming plans or purchasing local SIM cards upon arrival in **New Delhi**.",
+  "feedback_used": {
+    "score": 0.83,
+    "checks": {
+      "budget": true,
+      "safety": true,
+      "human_approval": true,
+      "next_actions": false,
+      "tool_evidence": true,
+      "risk_mitigation": true
+    },
+    "feedback": [
+      "End with exactly 5 concrete next actions."
+    ]
+  },
+  "saved_path": "outputs\\trip_run_20260606_235700.json"
+}

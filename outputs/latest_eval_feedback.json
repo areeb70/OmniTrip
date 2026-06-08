@@ -1,0 +1,15 @@
+{
+  "score": 0.67,
+  "checks": {
+    "budget": true,
+    "safety": true,
+    "human_approval": true,
+    "next_actions": false,
+    "tool_evidence": false,
+    "risk_mitigation": true
+  },
+  "feedback": [
+    "End with exactly 5 concrete next actions.",
+    "Reference tool evidence such as budget and transit outputs."
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "goal": "Plan a romantic 4-day trip to Paris for a couple.",
+  "city": "Paris",
+  "people": 2,
+  "nights": 3,
+  "duration_days": 4,
+  "budget": {
+    "lodging_usd": 600,
+    "meals_usd": 560,
+    "transit_usd": 200,
+    "activities_usd": 240,
+    "recommended_buffer_usd": 240,
+    "estimated_total_usd": 1840,
+    "not_included": [
+      "International Flights",
+      "Travel Insurance",
+      "Visas"
+    ]
+  },
+  "transit": {
+    "recommended": "Metro & Walking",
+    "backup": "Rideshare apps (Uber/Grab/Bolt)",
+    "tip": "Get a local city-pass for unlimited travel."
+  },
+  "travel_risk": {
+    "safety_level": "Low",
+    "considerations": [
+      "Check current travel advisories",
+      "Keep a digital copy of your passport",
+      "Use a secure VPN for public Wi-Fi",
+      "Research local emergency numbers"
+    ]
+  },
+  "itinerary": [
+    {
+      "day": 1,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    },
+    {
+      "day": 2,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    },
+    {
+      "day": 3,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    },
+    {
+      "day": 4,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    }
+  ],
+  "final_plan": "# OmniTrip Plan for Paris\n(Offline Mode) Estimated Budget: $1840\nRecommended Transit: Metro & Walking\n\n## Next Actions\n1. Check Flights\n2. Book Hotel\n3. Check Visa\n4. Pack Bags\n5. Enjoy Trip!",
+  "feedback_used": {
+    "score": 1.0,
+    "checks": {
+      "budget": true,
+      "safety": true,
+      "human_approval": true,
+      "next_actions": true,
+      "tool_evidence": true,
+      "risk_mitigation": true
+    },
+    "feedback": [
+      "Plan passes all local quality checks."
+    ]
+  },
+  "saved_path": "outputs\\trip_run_20260606_202325.json"
+}

@@ -1,0 +1,81 @@
+{
+  "goal": "Plan a romantic 4-day trip to New Delhi for a couple.",
+  "start_city": "New York",
+  "city": "New Delhi",
+  "people": 2,
+  "nights": 3,
+  "duration_days": 4,
+  "budget": {
+    "overall_total": 3960,
+    "flight_details": {
+      "category": "Flight Estimate",
+      "cost_per_person": 1200,
+      "total_flight_cost": 2400
+    },
+    "breakdown": {
+      "flights": 2400,
+      "lodging": 360,
+      "meals_and_dining": 320,
+      "local_transport": 200,
+      "activities_and_tours": 320,
+      "emergency_buffer": 360
+    }
+  },
+  "transit": {
+    "recommended": "General Public Transport",
+    "backup": "Rideshare apps (Uber/Grab/Bolt)",
+    "tip": "Get a local city-pass for unlimited travel."
+  },
+  "travel_risk": {
+    "safety_level": "Medium",
+    "considerations": [
+      "Check current travel advisories",
+      "Keep a digital copy of your passport",
+      "Use a secure VPN for public Wi-Fi",
+      "Research local emergency numbers"
+    ]
+  },
+  "itinerary": [
+    {
+      "day": 1,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    },
+    {
+      "day": 2,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    },
+    {
+      "day": 3,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    },
+    {
+      "day": 4,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    }
+  ],
+  "final_plan": "# OmniTrip Travel Dossier: Romantic Delhi Retreat\n\nWelcome, discerning travelers, to your bespoke journey crafted by OmniTrip, your premier global travel consultant. This dossier outlines a luxurious and romantic 4-day escape to the heart of India, **New Delhi**, designed for an unforgettable experience for two.\n\n---\n\n## 1. Travel Overview\n\n*   **Destination:** **New Delhi**, India\n*   **Duration:** 3 Nights / 4 Days\n*   **Travelers:** 2 (Couple)\n*   **Route:** New York (USA) ✈️ New Delhi (India)\n\n---\n\n## 2. Estimated Budget Plan\n\nThe flight estimate for this itinerary is based on round-trip premium economy or business class fares from **New York** (JFK/EWR) to **New Delhi** (DEL) for two travelers, considering typical pricing for a long-haul international route of this caliber. Please note that actual flight costs can fluctuate based on booking time, airline, and seasonality.\n\n| Category             | Cost    | Description                                                        |\n| :------------------- | :------ | :----------------------------------------------------------------- |\n| Flight Estimate      | $2400   | Round-trip from New York (JFK/EWR) to New Delhi (DEL) for two.     |\n| Lodging              | $360    | 3 nights at a 5-star hotel or boutique luxury accommodation.       |\n| Meals & Dining       | $320    | High-end dining, romantic dinners, and local culinary experiences. |\n| Local Transport      | $200    | Private car hire, curated taxi services, and occasional rideshares. |\n| Activities & Tours   | $320    | Entrance fees, guided historical tours, and unique cultural experiences. |\n| Emergency Buffer     | $360    | Contingency for unforeseen expenses or spontaneous indulgences.    |\n| **GRAND TOTAL**      | **$3960** |                                                                    |\n\n---\n\n## 3. Proposed Itinerary: Romantic Delhi Rendezvous\n\nThis itinerary blends historical grandeur with romantic moments, ensuring a seamless and enriching experience.\n\n*   **Day 1: Arrival & Imperial Grandeur**\n    *   **Morning/Afternoon:** Arrive at **Indira Gandhi International Airport (DEL)**. A pre-arranged private transfer will take you to your luxury accommodation. Check-in and take time to relax and acclimate.\n    *   **Late Afternoon:** Begin your exploration with a visit to the iconic **India Gate**, a war memorial, followed by a leisurely stroll along the tree-lined **Rajpath**.\n    *   **Evening:** Enjoy a romantic welcome dinner at a high-end restaurant in **Connaught Place**, offering a blend of international and fine Indian cuisine, or a charming rooftop dining experience.\n\n*   **Day 2: UNESCO Wonders & Serene Gardens**\n    *   **Morning:** Discover the architectural magnificence of **Humayun's Tomb**, a stunning 16th-century Mughal masterpiece and a UNESCO World Heritage site, often considered a precursor to the Taj Mahal – perfect for tranquil couple's photos.\n    *   **Afternoon:** Explore the towering **Qutub Minar Complex**, another UNESCO site showcasing early Indo-Islamic architecture. Afterwards, find serenity amidst the blooming beauty of the **Garden of Five Senses**, designed to engage all senses and offering a truly romantic ambiance.\n    *   **Evening:** Indulge in a gourmet dinner experience at one of Delhi's celebrated fine dining establishments, perhaps exploring the vibrant culinary scene of Khan Market.\n\n*   **Day 3: Old Delhi Charm & Mughal Majesty**\n    *   **Morning:** Witness the historical grandeur of the **Red Fort** (exterior viewing recommended, interior can be crowded) and visit the magnificent **Jama Masjid**, one of India's largest mosques.\n    *   **Afternoon:** Immerse yourselves in the bustling, historic lanes of **Chandni Chowk**. Enjoy a guided rickshaw ride, sampling local delicacies and street food from reputable vendors, and explore the diverse markets for unique souvenirs.\n    *   **Evening:** A relaxing evening awaits. Consider a rejuvenating couple's spa treatment at your hotel or a luxurious dinner offering exquisite regional Indian cuisine.\n\n*   **Day 4: Leisure & Departure**\n    *   **Morning:** Enjoy a leisurely breakfast at your hotel. Depending on your flight schedule, you might have time for some last-minute luxury shopping at a high-end mall or a peaceful walk through **Lodi Garden**, known for its ancient tombs and lush greenery.\n    *   **Afternoon:** A private transfer will take you back to **Indira Gandhi International Airport (DEL)** for your onward journey, carrying cherished memories of your romantic Delhi escapade.\n\n---\n\n## 4. Transportation Guide\n\nFor a comfortable and reliable experience in **New Delhi**, we recommend the following:\n\n*   **Recommended:** Utilizing private car services with a dedicated driver for daily excursions, especially for couples seeking comfort and efficiency. This allows for seamless travel between sites without the hassle of navigating local public transport.\n*   **Backup:** Reputable rideshare apps such as Uber and Ola are widely available and offer convenient, metered services. Ensure you have a local SIM card or international roaming for easy booking.\n*   **OmniTrip Tip:** While not for all journeys, consider an auto-rickshaw for short, local experiences or a metro ride during off-peak hours to truly experience the city's pulse. For longer stays, a local city-pass might offer value, but for 4 days, private hire is more suitable for luxury travel.\n\n---\n\n## 5. Safety & Risk Mitigation\n\nNew Delhi is a vibrant city, and while generally safe for tourists, a medium safety level indicates the need for awareness and precautions.\n\n*   **General Considerations:**\n    *   **Travel Advisories:** Always check the latest travel advisories issued by your government before and during your trip.\n    *   **Documentation:** Keep digital copies of your passport, visa, and other important documents on your phone and a cloud service, separate from physical copies.\n    *   **Connectivity:** Use a secure VPN when connecting to public Wi-Fi networks to protect your data.\n    *   **Emergency Contacts:** Research local emergency numbers (Police, Ambulance) and have them readily accessible. Your hotel concierge can also be a valuable resource.\n    *   **Health:** Consult your doctor about recommended vaccinations and carry any necessary personal medications. Drink only bottled water.\n\n*   **Risk Mitigation & Backup Plans:**\n    *   **Minor Theft:** Be vigilant in crowded areas like markets; keep valuables secure and out of sight. Consider using a travel-safe belt or a crossbody bag.\n    *   **Transportation Safety:** When using taxis or rideshares, confirm the driver's identity and the vehicle details before boarding. Share your trip details with a trusted contact. Opt for pre-booked hotel transfers for airport pick-ups/drop-offs.\n    *   **Health Emergencies:** Ensure you have comprehensive travel insurance that covers medical emergencies and evacuation. Keep a list of local hospitals and clinics.\n    *   **Cultural Sensitivity:** Dress modestly, especially when visiting religious sites, and be aware of local customs to avoid misunderstandings.\n\n---\n\n## 6. Next Steps\n\nTo finalize your romantic escape to **New Delhi**, OmniTrip recommends the following professional next steps:\n\n1.  **Visa Requirements:** Confirm and initiate the visa application process for India for both travelers. Indian e-Visas are typically convenient but require advance planning.\n2.  **Flight Booking Window:** Monitor flight prices and book your New York to New Delhi flights within the optimal window (typically 3-6 months in advance for international long-haul routes) to secure the best fares and preferred seating.\n3.  **Accommodation Confirmation:** Select and secure your preferred 5-star hotel or luxury boutique accommodation based on your budget and desired amenities, ensuring a romantic and comfortable stay.\n4.  **Travel Insurance:** Purchase comprehensive travel insurance that covers medical emergencies, trip cancellations, and unforeseen circumstances for both travelers.\n5.  **Personalized Consultation & Approval:** Schedule a follow-up consultation with your OmniTrip consultant to discuss any itinerary modifications, activity preferences, and formally approve the proposed travel plan and budget before any bookings are made.",
+  "feedback_used": {
+    "score": 0.67,
+    "checks": {
+      "budget": true,
+      "safety": true,
+      "human_approval": false,
+      "next_actions": true,
+      "tool_evidence": true,
+      "risk_mitigation": false
+    },
+    "feedback": [
+      "Add human approval gates before spending money.",
+      "Name risks and backup plans."
+    ]
+  },
+  "saved_path": "outputs\\trip_run_20260608_220006.json"
+}

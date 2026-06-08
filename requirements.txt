@@ -1,0 +1,9 @@
+google-genai>=1.0.0
+arize-phoenix-otel>=0.16.0
+openinference-instrumentation-google-genai>=0.1.0
+opentelemetry-sdk>=1.25.0
+python-dotenv>=1.0.1
+pydantic>=2.7.0
+fastapi>=0.111.0
+uvicorn>=0.30.0
+wrapt>=1.14,<2

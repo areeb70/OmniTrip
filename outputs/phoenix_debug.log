@@ -1,0 +1,75 @@
+Phoenix tracing failed: ModuleNotFoundError: No module named 'wrapt.patches'
+Phoenix tracing failed: ModuleNotFoundError: No module named 'wrapt.patches'
+Phoenix tracing failed: ModuleNotFoundError: No module named 'wrapt.patches'
+Phoenix tracing failed: ModuleNotFoundError: No module named 'wrapt.patches'
+Phoenix tracing failed: ModuleNotFoundError: No module named 'wrapt.patches'
+Phoenix tracing failed: ModuleNotFoundError: No module named 'wrapt.patches'
+Phoenix tracing failed: ModuleNotFoundError: No module named 'wrapt.patches'
+Phoenix tracing failed: ModuleNotFoundError: No module named 'wrapt.patches'
+Phoenix tracing failed: ModuleNotFoundError: No module named 'wrapt.patches'
+Phoenix tracing failed: ModuleNotFoundError: No module named 'wrapt.patches'
+Phoenix tracing configured: project=arize-gemini-agent-starter, endpoint=https://app.phoenix.arize.com, api_key_set=True
+Phoenix tracing configured: project=arize-gemini-agent-starter, endpoint=https://app.phoenix.arize.com, api_key_set=True
+Phoenix tracing configured: project=arize-gemini-agent-starter, endpoint=https://app.phoenix.arize.com, api_key_set=True
+Phoenix tracing configured: project=arize-gemini-agent-starter, endpoint=https://app.phoenix.arize.com, api_key_set=True
+Phoenix tracing configured: project=arize-gemini-agent-starter, endpoint=https://app.phoenix.arize.com, api_key_set=True
+Phoenix tracing configured: project=arize-gemini-agent-starter, endpoint=https://app.phoenix.arize.com, api_key_set=True
+Phoenix tracing configured: project=arize-gemini-agent-starter, endpoint=https://app.phoenix.arize.com, api_key_set=True
+Phoenix tracing configured: project=arize-gemini-agent-starter, endpoint=https://app.phoenix.arize.com, api_key_set=True
+Phoenix tracing configured: project=arize-gemini-agent-starter, endpoint=https://app.phoenix.arize.com, api_key_set=True
+Phoenix tracing configured: project=arize-gemini-agent-starter, endpoint=https://app.phoenix.arize.com, api_key_set=True
+Phoenix tracing configured: project=arize-gemini-agent-starter, endpoint=https://app.phoenix.arize.com, api_key_set=True
+Phoenix tracing configured: project=arize-gemini-agent-starter, endpoint=https://app.phoenix.arize.com, api_key_set=True
+Phoenix tracing configured: project=arize-gemini-agent-starter, endpoint=https://app.phoenix.arize.com, api_key_set=True
+Phoenix tracing configured: project=arize-gemini-agent-starter, endpoint=https://app.phoenix.arize.com, api_key_set=True
+Phoenix tracing configured: project=arize-gemini-agent-starter, endpoint=https://app.phoenix.arize.com, api_key_set=True
+Phoenix tracing configured: project=arize-gemini-agent-starter, endpoint=https://app.phoenix.arize.com, api_key_set=True
+Phoenix tracing configured: project=arize-gemini-agent-starter, endpoint=https://app.phoenix.arize.com, api_key_set=True
+Phoenix tracing configured: project=arize-gemini-agent-starter, endpoint=https://app.phoenix.arize.com, api_key_set=True
+Phoenix tracing configured: project=arize-gemini-agent-starter, endpoint=https://app.phoenix.arize.com, api_key_set=True
+Phoenix tracing configured: project=arize-gemini-agent-starter, endpoint=https://app.phoenix.arize.com, api_key_set=True
+Phoenix tracing configured: project=arize-gemini-agent-starter, endpoint=https://app.phoenix.arize.com, api_key_set=True
+Phoenix tracing configured: project=Omnitrip, endpoint=https://app.phoenix.arize.com/s/areeb0495, api_key_set=True
+Phoenix tracing configured: project=Omnitrip, endpoint=https://app.phoenix.arize.com/s/areeb0495, api_key_set=True
+Phoenix tracing configured: project=Omnitrip, endpoint=https://app.phoenix.arize.com/s/areeb0495, api_key_set=True
+Phoenix tracing configured: project=Omnitrip, endpoint=https://app.phoenix.arize.com/s/areeb0495, api_key_set=True
+Phoenix tracing configured: project=Omnitrip, endpoint=https://app.phoenix.arize.com/s/areeb0495, api_key_set=True
+Phoenix tracing configured: project=Omnitrip, endpoint=https://app.phoenix.arize.com/s/areeb0495, api_key_set=True
+Phoenix tracing configured: project=Omnitrip, endpoint=https://app.phoenix.arize.com/s/areeb0495, api_key_set=True
+Phoenix tracing configured: project=Omnitrip, endpoint=https://app.phoenix.arize.com/s/areeb0495, api_key_set=True
+Phoenix tracing configured: project=Omnitrip, endpoint=https://app.phoenix.arize.com/s/areeb0495, api_key_set=True
+Phoenix tracing configured: project=Omnitrip, endpoint=https://app.phoenix.arize.com/s/areeb0495, api_key_set=True
+Phoenix tracing configured: project=Omnitrip, protocol=grpc, endpoint=https://app.phoenix.arize.com/s/areeb0495
+Phoenix tracing configured: project=Omnitrip, protocol=http/protobuf, endpoint=https://app.phoenix.arize.com/s/areeb0495
+Phoenix tracing configured: project=Omnitrip, protocol=http/protobuf, endpoint=https://app.phoenix.arize.com/s/areeb0495
+Phoenix tracing configured: project=Omnitrip, endpoint=https://app.phoenix.arize.com
+Phoenix tracing configured: project=Omnitrip, endpoint=https://app.phoenix.arize.com, auth=headers_forced
+Phoenix tracing configured: project=Omnitrip, endpoint=https://app.phoenix.arize.com
+Phoenix tracing configured: project=Omnitrip, endpoint=https://app.phoenix.arize.com, auth=headers_forced
+Phoenix tracing configured: project=Omnitrip, endpoint=https://app.phoenix.arize.com
+Phoenix tracing configured: project=Omnitrip, auth=double_header_forced
+Phoenix tracing configured: project=Omnitrip, auth=double_header_forced
+Phoenix LOCAL tracing configured successfully.
+Phoenix LOCAL tracing configured successfully.
+Phoenix LOCAL tracing configured successfully.
+Phoenix LOCAL tracing configured. Endpoint: http://localhost:6006
+MANUAL Tracing configured. Endpoint: http://localhost:6006/v1/traces
+MANUAL Tracing configured. Endpoint: http://localhost:6006/v1/traces
+MANUAL Tracing configured. Endpoint: http://localhost:6006/v1/traces
+MANUAL Tracing configured. Endpoint: http://localhost:6006/v1/traces
+MANUAL Tracing configured. Project: OmniTrip-Local, Endpoint: http://localhost:6006/v1/traces
+MANUAL Tracing configured. Project: OmniTrip-Local, Endpoint: http://localhost:6006/v1/traces
+MANUAL Tracing configured. Project: OmniTrip-Local, Endpoint: http://localhost:6006/v1/traces
+MANUAL Tracing configured. Project: OmniTrip-Local, Endpoint: http://localhost:6006/v1/traces
+MANUAL Tracing configured. Project: OmniTrip-Local, Endpoint: http://localhost:6006/v1/traces
+MANUAL Tracing configured. Project: OmniTrip-Local, Endpoint: http://localhost:6006/v1/traces
+MANUAL Tracing configured. Project: OmniTrip-Local, Endpoint: http://localhost:6006/v1/traces
+MANUAL Tracing configured. Project: OmniTrip-Local, Endpoint: http://localhost:6006/v1/traces
+MANUAL Tracing configured. Project: OmniTrip-Local, Endpoint: http://localhost:6006/v1/traces
+MANUAL Tracing configured. Project: OmniTrip-Local, Endpoint: http://localhost:6006/v1/traces
+MANUAL Tracing configured. Project: OmniTrip-Local, Endpoint: http://localhost:6006/v1/traces
+MANUAL Tracing configured. Project: OmniTrip-Local, Endpoint: http://localhost:6006/v1/traces
+MANUAL Tracing configured. Project: OmniTrip-Local, Endpoint: http://localhost:6006/v1/traces
+MANUAL Tracing configured. Project: OmniTrip-Local, Endpoint: http://localhost:6006/v1/traces
+MANUAL Tracing configured. Project: OmniTrip-Local, Endpoint: http://localhost:6006/v1/traces
+MANUAL Tracing configured. Project: OmniTrip-Local, Endpoint: http://localhost:6006/v1/traces

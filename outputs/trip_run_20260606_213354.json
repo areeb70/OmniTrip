@@ -1,0 +1,111 @@
+{
+  "goal": "Plan a romantic 4-day trip to Paris for a couple.",
+  "start_city": "New York",
+  "city": "Paris",
+  "people": 2,
+  "nights": 3,
+  "duration_days": 9,
+  "budget": {
+    "overall_total": 3608,
+    "flight_details": {
+      "category": "Flight Estimate",
+      "cost_per_person": 800,
+      "total_flight_cost": 1600
+    },
+    "breakdown": {
+      "flights": 1600,
+      "lodging": 600,
+      "meals_and_dining": 560,
+      "local_transport": 200,
+      "activities_and_tours": 320,
+      "emergency_buffer": 328
+    }
+  },
+  "transit": {
+    "recommended": "Metro & Walking",
+    "backup": "Rideshare apps (Uber/Grab/Bolt)",
+    "tip": "Get a local city-pass for unlimited travel."
+  },
+  "travel_risk": {
+    "safety_level": "Low",
+    "considerations": [
+      "Check current travel advisories",
+      "Keep a digital copy of your passport",
+      "Use a secure VPN for public Wi-Fi",
+      "Research local emergency numbers"
+    ]
+  },
+  "itinerary": [
+    {
+      "day": 1,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    },
+    {
+      "day": 2,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    },
+    {
+      "day": 3,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    },
+    {
+      "day": 4,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    },
+    {
+      "day": 5,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    },
+    {
+      "day": 6,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    },
+    {
+      "day": 7,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    },
+    {
+      "day": 8,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    },
+    {
+      "day": 9,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    }
+  ],
+  "final_plan": "## OmniTrip Global Travel Dossier: A Romantic Parisian Escape\n\n**Destination:** Paris, France\n**Travelers:** 2 Adults\n**Duration:** 4 Days / 3 Nights\n**Departure City:** New York, USA\n\n---\n\n### Trip Overview\n\nOmniTrip is delighted to present a bespoke travel dossier for your romantic 4-day, 3-night getaway to **Paris**, the City of Love. This itinerary is crafted to immerse you in the quintessential Parisian experience, blending iconic landmarks with intimate moments, ensuring an unforgettable journey for you and your partner.\n\n---\n\n### Detailed Itinerary: Paris for Two\n\nThis itinerary balances structured exploration with ample time for spontaneous romantic moments.\n\n**Day 1: Arrival & Eiffel Charm**\n*   **Morning:** Depart from **New York** (JFK/EWR) to **Paris** (CDG). Upon arrival, transfer to your charming Parisian hotel. Check-in and refresh.\n*   **Afternoon:** Begin your Parisian adventure with a visit to the iconic **Eiffel Tower**. Ascend to the summit for breathtaking panoramic views of the city. Afterwards, enjoy a leisurely stroll through the **Champ de Mars** and **Trocadéro Gardens**.\n*   **Evening:** Indulge in a romantic dinner at a classic French bistro with views of the illuminated Eiffel Tower. Consider a enchanting **Seine River cruise** as the city lights up.\n\n**Day 2: Art, History & Riverside Romance**\n*   **Morning:** Immerse yourselves in art and history at the world-renowned **Louvre Museum**. Focus on key masterpieces like the Mona Lisa and Venus de Milo.\n*   **Afternoon:** Enjoy a romantic walk through the serene **Tuileries Garden**, leading to **Place de la Concorde**. Cross the **Pont des Arts** (Lover's Bridge) and enjoy the riverside atmosphere.\n*   **Evening:** Explore the vibrant **Le Marais** district, known for its historic architecture, trendy boutiques, and cozy cafes. Enjoy a gourmet dinner in this charming neighborhood, perhaps followed by a classic French cabaret show.\n\n**Day 3: Bohemian Rhapsody & Grand Avenues**\n*   **Morning:** Discover the bohemian charm of **Montmartre**. Visit the majestic **Sacré-Cœur Basilica** for stunning city views and wander through the artistic **Place du Tertre**.\n*   **Afternoon:** Experience the grandeur of **Paris** with a walk along the famous **Champs-Élysées**, leading to the magnificent **Arc de Triomphe**. Ascend the Arc for another spectacular city vista.\n*   **Evening:** Savor a final romantic dinner experience, perhaps at a Michelin-starred restaurant or a cozy wine bar, enjoying exquisite French cuisine and wine.\n\n**Day 4: Parisian Farewell & Departure**\n*   **Morning:** Enjoy a leisurely breakfast. Explore **Île de la Cité** to admire the exterior of **Notre Dame Cathedral** and the beautiful **Sainte-Chapelle**. Take a final stroll through the intellectual **Saint-Germain-des-Prés** quarter for some last-minute souvenir shopping.\n*   **Afternoon:** Enjoy a farewell lunch. Depending on your flight schedule, proceed to **Paris** (CDG) airport for your departure back to **New York**.\n\n---\n\n### Budget Overview\n\nHere is an estimated budget breakdown for your romantic Parisian trip, based on our comprehensive `Budget Data`. Flights were estimated at **$800 per person**, totaling **$1600 for two travelers**, based on typical round-trip fares from **New York** to **Paris**.\n\n| Category             | Cost   | Description                                                                 |\n| :------------------- | :----- | :-------------------------------------------------------------------------- |\n| Flight Estimate      | $1600  | Round-trip flights from New York for 2 travelers.                           |\n| Lodging              | $600   | 3 nights accommodation in a charming Parisian hotel (mid-range to boutique).|\n| Meals & Dining       | $560   | Estimated cost for romantic dinners, lunches, and breakfasts.               |\n| Local Transport      | $200   | Metro passes, occasional rideshares, airport transfers.                     |\n| Activities & Tours   | $320   | Entry fees for museums, Eiffel Tower, Seine cruise, etc.                    |\n| Emergency Buffer     | $328   | Recommended buffer for unforeseen expenses or spontaneous treats.           |\n| **GRAND TOTAL**      | **$3608**| **Estimated total cost for the trip.**                                        |\n\n---\n\n### Transportation Insights\n\nBased on our `Transit Data`, the most efficient and authentic way to navigate **Paris** is via the **Metro & Walking**. The city's excellent public transport system connects all major attractions. For added convenience, a local city-pass is highly recommended for unlimited travel. Rideshare apps like Uber are available as a backup for specific routes or late-night travel.\n\n---\n\n### Safety & Travel Considerations\n\nOur `Risk Data` indicates a **Low safety level** for **Paris**. However, as with any major city, it's wise to remain vigilant. Key considerations include:\n*   Checking current travel advisories from your government.\n*   Keeping a digital copy of your passport and other important documents.\n*   Using a secure VPN for public Wi-Fi networks to protect personal data.\n*   Familiarizing yourselves with local emergency numbers (e.g., 112 for all emergencies in France).\n*   Being aware of pickpockets, especially in crowded tourist areas.\n\n---\n\n### Next Steps\n\nTo ensure a seamless and enjoyable journey, OmniTrip recommends the following professional next steps:\n\n1.  **Visa Requirements Confirmation:** Verify any necessary visa requirements for France based on your nationality and passport.\n2.  **Flight Booking Window:** Monitor and book your flights from New York to Paris during optimal windows to secure the best rates and desired timings.\n3.  **Hotel Selection & Reservation:** Research and reserve your preferred accommodation in Paris, considering your desired neighborhood and amenities.\n4.  **Attraction Pre-booking:** Purchase tickets for major attractions (e.g., Eiffel Tower, Louvre) in advance to avoid long queues and ensure entry.\n5.  **Travel Insurance Review:** Evaluate and purchase comprehensive travel insurance to cover unforeseen circumstances, including cancellations, medical emergencies, and lost luggage.",
+  "feedback_used": {
+    "score": 0.67,
+    "checks": {
+      "budget": true,
+      "safety": true,
+      "human_approval": true,
+      "next_actions": false,
+      "tool_evidence": false,
+      "risk_mitigation": true
+    },
+    "feedback": [
+      "End with exactly 5 concrete next actions.",
+      "Reference tool evidence such as budget and transit outputs."
+    ]
+  },
+  "saved_path": "outputs\\trip_run_20260606_213354.json"
+}

@@ -1,0 +1,111 @@
+{
+  "goal": "Plan a work trip",
+  "start_city": "New York",
+  "city": "Paris",
+  "people": 2,
+  "nights": 3,
+  "duration_days": 9,
+  "budget": {
+    "overall_total": 3608,
+    "flight_details": {
+      "category": "Flight Estimate",
+      "cost_per_person": 800,
+      "total_flight_cost": 1600
+    },
+    "breakdown": {
+      "flights": 1600,
+      "lodging": 600,
+      "meals_and_dining": 560,
+      "local_transport": 200,
+      "activities_and_tours": 320,
+      "emergency_buffer": 328
+    }
+  },
+  "transit": {
+    "recommended": "Metro & Walking",
+    "backup": "Rideshare apps (Uber/Grab/Bolt)",
+    "tip": "Get a local city-pass for unlimited travel."
+  },
+  "travel_risk": {
+    "safety_level": "Low",
+    "considerations": [
+      "Check current travel advisories",
+      "Keep a digital copy of your passport",
+      "Use a secure VPN for public Wi-Fi",
+      "Research local emergency numbers"
+    ]
+  },
+  "itinerary": [
+    {
+      "day": 1,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    },
+    {
+      "day": 2,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    },
+    {
+      "day": 3,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    },
+    {
+      "day": 4,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    },
+    {
+      "day": 5,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    },
+    {
+      "day": 6,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    },
+    {
+      "day": 7,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    },
+    {
+      "day": 8,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    },
+    {
+      "day": 9,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    }
+  ],
+  "final_plan": "# OmniTrip Plan for Paris\n(⚠️ Offline Mode - Gemini Servers are currently overloaded)\n\n## 💰 Estimated Budget\n**Total Estimated Cost: $3608**\n*Note: This is a simulated estimate because the AI is currently unavailable.*\n\n## 🚌 Transit Strategy\n**Recommended:** Metro & Walking\n\n## 🛡️ Travel Risk\n**Safety Level:** Low\n\n## 📅 Basic Itinerary\n- Day 1: Arrival and hotel check-in.\n- Day 2-8: Local exploration and city sights.\n- Day 9: Final shopping and departure.\n\n## 🚀 Next Actions\n1. Check flight availability.\n2. Research hotels in Paris.\n3. Verify visa requirements.\n4. Pack appropriate clothing for the region.\n5. Try running the generator again in a few minutes.\n",
+  "feedback_used": {
+    "score": 0.67,
+    "checks": {
+      "budget": true,
+      "safety": true,
+      "human_approval": false,
+      "next_actions": false,
+      "tool_evidence": true,
+      "risk_mitigation": true
+    },
+    "feedback": [
+      "Add human approval gates before spending money.",
+      "End with exactly 5 concrete next actions."
+    ]
+  },
+  "saved_path": "outputs\\trip_run_20260606_213439.json"
+}
