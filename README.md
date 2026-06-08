@@ -1,6 +1,6 @@
-# MatchDayOps
+# OmniTrip
 
-MatchDayOps is a Gemini-powered agent that helps travelers plan a safer, cheaper, and more organized 2026 World Cup match day.
+Omnitrip is a Gemini-powered agent that helps travelers plan a safer, cheaper, and more organized travel plan.
 
 It is built for the Arize hackathon track. The project shows a code-owned agent runtime, tool use, Phoenix-ready tracing, evaluations, and a simple self-improvement loop.
 
@@ -155,7 +155,7 @@ In the demo, explain that Phoenix MCP gives the agent access to its own traces, 
 ## Demo Flow
 
 1. Open the web app.
-2. Enter a trip goal, city, people count, nights, and kickoff time.
+2. Enter a trip goal, city, people count, nights, and duration_days.
 3. Run the agent.
 4. Show the generated plan.
 5. Show the saved output files in `outputs/`.
