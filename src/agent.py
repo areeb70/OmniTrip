@@ -12,6 +12,7 @@ from matchdayops.tools import (
     estimate_budget,
     find_transit_options,
     save_agent_run,
+    search_travel_costs,
 )
 from matchdayops.tracing import configure_tracing, flush_tracing, traced
 
@@ -25,13 +26,24 @@ except Exception:
 def run_agent(goal: str, start_city: str, city: str, people: int, nights: int, duration_days: int) -> AgentRun:
     feedback = load_eval_feedback()
     
-    # Tools execution
-    budget = estimate_budget(start_city=start_city, city=city, people=people, nights=nights)
+    # 1. Determine the travel style based on the user's goal
+    style = "mid-range"
+    goal_lower = goal.lower()
+    if any(word in goal_lower for word in ["luxury", "premium", "fancy", "high-end", "expensive"]):
+        style = "luxury"
+    elif any(word in goal_lower for word in ["budget", "cheap", "affordable", "low cost", "student"]):
+        style = "budget"
+
+    # 2. CALL THE SEARCH TOOL for real-world, live data
+    web_context = search_travel_costs(city=city, style=style)
+    
+    # 3. Get the baseline data (for safety/comparison)
+    budget = estimate_budget(start_city=start_city, city=city, people=people, nights=nights, goal=goal)
     transit = find_transit_options(city=city)
     travel_risk = assess_travel_risk(city=city)
     itinerary = build_itinerary(city=city, days=duration_days)
 
-    # Gemini generation
+    # 4. Pass the web_context to Gemini
     final_plan = generate_final_plan(
         goal=goal, 
         start_city=start_city, 
@@ -44,21 +56,13 @@ def run_agent(goal: str, start_city: str, city: str, people: int, nights: int, d
         travel_risk=travel_risk, 
         itinerary=itinerary, 
         feedback=feedback,
+        web_context=web_context # <--- Pass the search results here
     )
 
     run = AgentRun(
-        goal=goal, 
-        start_city=start_city, 
-        city=city, 
-        people=people, 
-        nights=nights, 
-        duration_days=duration_days,
-        budget=budget, 
-        transit=transit, 
-        travel_risk=travel_risk, 
-        itinerary=itinerary,
-        final_plan=final_plan, 
-        feedback_used=feedback,
+        goal=goal, start_city=start_city, city=city, people=people, nights=nights, duration_days=duration_days,
+        budget=budget, transit=transit, travel_risk=travel_risk, itinerary=itinerary,
+        final_plan=final_plan, feedback_used=feedback,
     )
     save_agent_run(run)
     return run

@@ -1,14 +1,17 @@
 {
-  "score": 0.83,
+  "score": 0.33,
   "checks": {
     "budget": true,
-    "safety": true,
-    "human_approval": true,
+    "safety": false,
+    "human_approval": false,
     "next_actions": false,
     "tool_evidence": true,
-    "risk_mitigation": true
+    "risk_mitigation": false
   },
   "feedback": [
-    "End with exactly 5 concrete next actions."
+    "Include safety and crowd-management guidance.",
+    "Add human approval gates before spending money.",
+    "End with exactly 5 concrete next actions.",
+    "Name risks and backup plans."
   ]
 }

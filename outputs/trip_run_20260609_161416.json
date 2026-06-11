@@ -1,0 +1,87 @@
+{
+  "goal": "Plan a romantic 4-day trip to Paris for a couple.",
+  "start_city": "Tokyo",
+  "city": "Paris",
+  "people": 2,
+  "nights": 5,
+  "duration_days": 5,
+  "budget": {
+    "overall_total": 6182,
+    "flight_details": {
+      "category": "Flight Estimate",
+      "cost_per_person": 1500,
+      "total_flight_cost": 3000
+    },
+    "breakdown": {
+      "flights": 3000,
+      "lodging": 1000,
+      "meals_and_dining": 840,
+      "local_transport": 300,
+      "activities_and_tours": 480,
+      "emergency_buffer": 562
+    }
+  },
+  "transit": {
+    "recommended": "Metro & Walking",
+    "backup": "Rideshare apps (Uber/Grab/Bolt)",
+    "tip": "Get a local city-pass for unlimited travel."
+  },
+  "travel_risk": {
+    "safety_level": "Low",
+    "considerations": [
+      "Check current travel advisories",
+      "Keep a digital copy of your passport",
+      "Use a secure VPN for public Wi-Fi",
+      "Research local emergency numbers"
+    ]
+  },
+  "itinerary": [
+    {
+      "day": 1,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    },
+    {
+      "day": 2,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    },
+    {
+      "day": 3,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    },
+    {
+      "day": 4,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    },
+    {
+      "day": 5,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    }
+  ],
+  "final_plan": "# OmniTrip Plan for Paris\n(⚠️ Offline Mode - Gemini Servers are currently overloaded)\n\n## 💰 Estimated Budget\n**Total Estimated Cost: $6182**\n*Note: This is a simulated estimate because the AI is currently unavailable.*\n\n## 🚌 Transit Strategy\n**Recommended:** Metro & Walking\n\n## 🛡️ Travel Risk\n**Safety Level:** Low\n\n## 📅 Basic Itinerary\n- Day 1: Arrival and hotel check-in.\n- Day 2-4: Local exploration and city sights.\n- Day 5: Final shopping and departure.\n\n## 🚀 Next Actions\n1. Check flight availability.\n2. Research hotels in Paris.\n3. Verify visa requirements.\n4. Pack appropriate clothing for the region.\n5. Try running the generator again in a few minutes.\n",
+  "feedback_used": {
+    "score": 0.67,
+    "checks": {
+      "budget": true,
+      "safety": true,
+      "human_approval": false,
+      "next_actions": true,
+      "tool_evidence": true,
+      "risk_mitigation": false
+    },
+    "feedback": [
+      "Add human approval gates before spending money.",
+      "Name risks and backup plans."
+    ]
+  },
+  "saved_path": "outputs\\trip_run_20260609_161416.json"
+}

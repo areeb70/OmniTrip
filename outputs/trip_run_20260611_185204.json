@@ -1,0 +1,102 @@
+{
+  "goal": "Plan a Vacation trip",
+  "start_city": "New Delhi",
+  "city": "Kerala",
+  "people": 2,
+  "nights": 7,
+  "duration_days": 7,
+  "budget": {
+    "overall_total": 5665.0,
+    "style": "Mid-range",
+    "flight_details": {
+      "category": "Flight Estimate",
+      "cost_per_person": 1200,
+      "total_flight_cost": 2400
+    },
+    "breakdown": {
+      "flights": 2400,
+      "lodging": 910.0,
+      "meals_and_dining": 640.0,
+      "local_transport": 480.0,
+      "activities_and_tours": 720.0,
+      "emergency_buffer": 515
+    }
+  },
+  "transit": {
+    "recommended": "General Public Transport",
+    "backup": "Rideshare apps (Uber/Grab/Bolt)",
+    "tip": "Get a local city-pass for unlimited travel."
+  },
+  "travel_risk": {
+    "safety_level": "Medium",
+    "considerations": [
+      "Check current travel advisories",
+      "Keep a digital copy of your passport",
+      "Use a secure VPN for public Wi-Fi",
+      "Research local emergency numbers"
+    ]
+  },
+  "itinerary": [
+    {
+      "day": 1,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    },
+    {
+      "day": 2,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    },
+    {
+      "day": 3,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    },
+    {
+      "day": 4,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    },
+    {
+      "day": 5,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    },
+    {
+      "day": 6,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    },
+    {
+      "day": 7,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    }
+  ],
+  "final_plan": "# OmniTrip Plan for Kerala\n(⚠️ Offline Mode - Gemini Servers are currently overloaded)\n\n## 💰 Estimated Budget\n**Total Estimated Cost: $5665.0**\n*Note: This is a simulated estimate because the AI is currently unavailable.*\n\n## 🚌 Transit Strategy\n**Recommended:** General Public Transport\n\n## 🛡️ Travel Risk\n**Safety Level:** Medium\n\n## 📅 Basic Itinerary\n- Day 1: Arrival and hotel check-in.\n- Day 2-6: Local exploration and city sights.\n- Day 7: Final shopping and departure.\n\n## 🚀 Next Actions\n1. Check flight availability.\n2. Research hotels in Kerala.\n3. Verify visa requirements.\n4. Pack appropriate clothing for the region.\n5. Try running the generator again in a few minutes.\n",
+  "feedback_used": {
+    "score": 0.33,
+    "checks": {
+      "budget": true,
+      "safety": true,
+      "human_approval": false,
+      "next_actions": false,
+      "tool_evidence": false,
+      "risk_mitigation": false
+    },
+    "feedback": [
+      "Add human approval gates before spending money.",
+      "End with exactly 5 concrete next actions.",
+      "Reference tool evidence such as budget and transit outputs.",
+      "Name risks and backup plans."
+    ]
+  },
+  "saved_path": "outputs\\trip_run_20260611_185204.json"
+}

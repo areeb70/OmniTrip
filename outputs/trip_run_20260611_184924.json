@@ -1,0 +1,81 @@
+{
+  "goal": "Plan a vacation trip",
+  "start_city": "New Delhi",
+  "city": "Srinagar",
+  "people": 2,
+  "nights": 3,
+  "duration_days": 4,
+  "budget": {
+    "overall_total": 4081.0,
+    "style": "Mid-range",
+    "flight_details": {
+      "category": "Flight Estimate",
+      "cost_per_person": 1200,
+      "total_flight_cost": 2400
+    },
+    "breakdown": {
+      "flights": 2400,
+      "lodging": 390.0,
+      "meals_and_dining": 320.0,
+      "local_transport": 240.0,
+      "activities_and_tours": 360.0,
+      "emergency_buffer": 371
+    }
+  },
+  "transit": {
+    "recommended": "General Public Transport",
+    "backup": "Rideshare apps (Uber/Grab/Bolt)",
+    "tip": "Get a local city-pass for unlimited travel."
+  },
+  "travel_risk": {
+    "safety_level": "Medium",
+    "considerations": [
+      "Check current travel advisories",
+      "Keep a digital copy of your passport",
+      "Use a secure VPN for public Wi-Fi",
+      "Research local emergency numbers"
+    ]
+  },
+  "itinerary": [
+    {
+      "day": 1,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    },
+    {
+      "day": 2,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    },
+    {
+      "day": 3,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    },
+    {
+      "day": 4,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    }
+  ],
+  "final_plan": "# OmniTrip Travel Dossier: Enchanting Srinagar Getaway\n\n**Date of Dossier:** June 11, 2026\n**Client:** Valued Traveler\n**Route:** New Delhi ✈️ Srinagar\n**Travelers:** 2 Adults\n**Duration:** 3 Nights (4 Days)\n**Travel Style:** Mid-range comfort with authentic experiences\n\n## 1. Introduction\n\nOmniTrip is delighted to present this bespoke travel dossier for your exquisite journey to **Srinagar**, the summer capital of Jammu and Kashmir, India. Known for its serene lakes, majestic Mughal gardens, and vibrant houseboats, Srinagar promises a captivating blend of natural beauty and rich cultural heritage. This itinerary is designed to offer a comfortable yet immersive experience, leveraging current market pricing to ensure a seamless and memorable trip.\n\n## 2. Travel Overview\n\nYour journey will commence from **New Delhi**, flying directly into the heart of Kashmir. The plan focuses on experiencing Srinagar's iconic attractions, with a day trip to the picturesque meadows of **Gulmarg**, ensuring a diverse and enriching adventure.\n\n## 3. Detailed Itinerary\n\nThis 4-day itinerary has been crafted to maximize your experience in and around Srinagar, balancing sightseeing with leisure.\n\n*   **Day 1: Arrival & Dal Lake Serenity**\n    *   **Morning:** Arrive at **Sheikh ul-Alam International Airport (Srinagar)**. You will be greeted by your private transfer and taken to your hotel for check-in.\n    *   **Afternoon:** Enjoy a relaxing Shikara ride on the iconic **Dal Lake**, exploring its floating gardens, market, and charming houseboats.\n    *   **Evening:** Stroll along the Boulevard Road overlooking the lake, followed by dinner at a local restaurant savoring authentic Kashmiri Wazwan cuisine.\n\n*   **Day 2: Mughal Marvels & Old City Charm**\n    *   **Morning:** Embark on a tour of Srinagar's magnificent **Mughal Gardens**: **Nishat Bagh (Garden of Joy)**, **Shalimar Bagh (Abode of Love)**, and **Chashma Shahi (Royal Spring)**, each offering unique horticultural beauty and architectural grandeur.\n    *   **Afternoon:** Explore the historic **Old City of Srinagar**, visiting the revered **Jamia Masjid** and the sacred **Hazratbal Shrine**. Discover local handicraft markets.\n    *   **Evening:** Enjoy a delightful dinner experience, perhaps at a renowned local eatery.\n\n*   **Day 3: Gulmarg Alpine Adventure**\n    *   **Morning:** Take a scenic drive to **Gulmarg**, known as the \"Meadow of Flowers,\" a renowned hill station and skiing destination.\n    *   **Afternoon:** Experience the famous **Gulmarg Gondola**, one of the highest cable cars in the world. Ascend to Apharwat Peak for breathtaking panoramic views (Phase 1 & Phase 2). Enjoy leisurely walks amidst the alpine scenery.\n    *   **Evening:** Return to Srinagar, followed by a relaxed evening and dinner.\n\n*   **Day 4: Departure**\n    *   **Morning:** Enjoy a leisurely breakfast. Depending on your flight schedule, you may have time for some last-minute souvenir shopping for Pashmina shawls, Kashmiri handicrafts, or dried fruits.\n    *   **Afternoon:** Private transfer to Sheikh ul-Alam International Airport (Srinagar) for your flight back to **New Delhi**.\n\n## 4. Budget Breakdown\n\nThis budget is estimated for two travelers for a 3-night (4-day) trip, based on real-time web search results and a mid-range travel style.\n\n| Category             | Cost (INR) | Description                                                                                                                              |\n| :------------------- | :--------- | :--------------------------------------------------------------------------------------------------------------------------------------- |\n| **Flights**          | 22,000     | Round-trip airfare for 2 persons from New Delhi to Srinagar. *Estimated from real-time web search results (INR 5,500 per person per leg).* |\n| **Accommodation**    | 13,695     | Mid-range hotel for 3 nights in Srinagar for 2 persons. *Based on an average of $55/night from BudgetYourTrip.com (approx. 83 INR/USD).* |\n| **Local Transport**  | 11,200     | Private Sedan rental with driver for 4 full days in and around Srinagar, including Gulmarg day trip (INR 2,800 per day).                  |\n| **Meals & Dining**   | 6,000      | Estimated cost for 4 days of dining for 2 persons, frequenting mid-range local restaurants (INR 1,500 per couple per day).                |\n| **Activities & Tours** | 10,000     | Includes Shikara ride on Dal Lake, entry fees for Mughal Gardens, Gulmarg Gondola ride (Phase 1 & 2) for 2 persons, and other local sights. |\n| **Emergency Buffer** | 6,300      | Approximately 10% of the total estimated trip cost for unforeseen circumstances or minor splurges.                                       |\n| **GRAND TOTAL**      | **69,195** |                                                                                                                                          |\n\n*Note on Flight Estimation:* The flight costs were estimated directly from current online travel content that provided specific round-trip airfare details for a couple traveling from New Delhi to Srinagar, matching your departure city and number of travelers.\n\n## 5. Important Considerations\n\n**Safety & Security:**\n*   **Safety Level:** Medium.\n*   **Considerations:**\n    *   Always check current travel advisories for the Jammu & Kashmir region closer to your travel date.\n    *   Keep digital and physical copies of your passports, visas, and other important documents separate.\n    *   Utilize a secure VPN for any public Wi-Fi connections.\n    *   Familiarize yourself with local emergency numbers (Police: 100, Ambulance: 102).\n    *   Be respectful of local customs, traditions, and dress codes, especially when visiting religious sites.\n\n## 6. Next Steps\n\nTo ensure a smooth and enjoyable journey, OmniTrip recommends the following immediate actions:\n\n1.  **Confirm Flight Bookings:** Secure your round-trip airfare from **New Delhi** to **Srinagar** as soon as possible to avail the best rates.\n2.  **Hotel Reservations:** Finalize and book your preferred accommodation in **Srinagar** for 3 nights, considering your specific preferences within the mid-range budget.\n3.  **Local Transport Arrangement:** Confirm a private car rental with a trusted local operator for the duration of your trip, including the **Gulmarg** excursion.\n4.  **Visa & Documentation Review:** Ensure all necessary identification and travel documents are valid and readily accessible for domestic air travel within India.\n5.  **Activity Pre-bookings:** Consider pre-booking popular activities such as the **Gulmarg Gondola** tickets online, especially during peak season, to avoid queues.",
+  "feedback_used": {
+    "score": 0.83,
+    "checks": {
+      "budget": true,
+      "safety": true,
+      "human_approval": true,
+      "next_actions": false,
+      "tool_evidence": true,
+      "risk_mitigation": true
+    },
+    "feedback": [
+      "End with exactly 5 concrete next actions."
+    ]
+  },
+  "saved_path": "outputs\\trip_run_20260611_184924.json"
+}

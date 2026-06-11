@@ -1,3 +1,5 @@
+import os 
+import requests
 import json
 from datetime import datetime
 from matchdayops.schemas import AgentRun, OUTPUT_DIR
@@ -40,28 +42,43 @@ def get_flight_estimate(start: str, end: str, people: int) -> dict:
     }
 
 @traced("tool.estimate_budget")
-def estimate_budget(start_city: str, city: str, people: int, nights: int) -> dict:
-    baseline = CITY_BASELINES.get(city.lower(), {"hotel": 120, "food_day": 40, "transit": "Public Transport", "risk": "Medium"})
+def estimate_budget(start_city: str, city: str, people: int, nights: int, goal: str) -> dict:
+    # 1. Get the base costs for the city
+    baseline = CITY_BASELINES.get(city.lower(), {"hotel": 130, "food_day": 40, "transit": "Public Transport", "risk": "Medium"})
     days = max(nights + 1, 1)
     
+    # 2. DYNAMIC MULTIPLIER: This is the "Smart" part
+    # We check the 'goal' to see if we should make the trip more expensive or cheaper
+    multiplier = 1.0 # Default: Mid-range
+    goal_lower = goal.lower()
+    
+    if any(word in goal_lower for word in ["luxury", "premium", "fancy", "high-end", "expensive", "romantic"]):
+        multiplier = 1.8  # Increase prices by 80% for luxury
+    elif any(word in goal_lower for word in ["budget", "cheap", "affordable", "low cost", "student"]):
+        multiplier = 0.6  # Decrease prices by 40% for budget
+    
+    # 3. Calculate costs using the multiplier
     flights = get_flight_estimate(start_city, city, people)
-    lodging = baseline["hotel"] * nights
-    meals = people * days * baseline["food_day"]
-    transit = people * days * 25
-    activities = people * days * 40
+    
+    # We multiply the hotel and food by the multiplier
+    lodging = (baseline["hotel"] * multiplier) * nights
+    meals = people * days * (baseline["food_day"] * multiplier)
+    transit = people * days * 30 * multiplier
+    activities = people * days * 45 * multiplier
     
     subtotal = flights["total_flight_cost"] + lodging + meals + transit + activities
     buffer = round(subtotal * 0.10)
     
     return {
         "overall_total": subtotal + buffer,
+        "style": "Luxury" if multiplier > 1 else ("Budget" if multiplier < 1 else "Mid-range"),
         "flight_details": flights,
         "breakdown": {
             "flights": flights["total_flight_cost"],
-            "lodging": lodging,
-            "meals_and_dining": meals,
-            "local_transport": transit,
-            "activities_and_tours": activities,
+            "lodging": round(lodging, 2),
+            "meals_and_dining": round(meals, 2),
+            "local_transport": round(transit, 2),
+            "activities_and_tours": round(activities, 2),
             "emergency_buffer": buffer
         }
     }
@@ -110,3 +127,39 @@ def save_agent_run(run: AgentRun) -> str:
     markdown = OUTPUT_DIR / f"plan_{timestamp}.md"
     markdown.write_text(run.final_plan, encoding="utf-8")
     return str(filename)
+
+@traced("tool.search_travel_costs")
+def search_travel_costs(city: str, style: str) -> str:
+    """
+    Performs a real-time web search for current travel expenses in a specific city.
+    """
+    api_key = os.getenv("TAVILY_API_KEY")
+    if not api_key:
+        return "Search tool unavailable: No TAVILY_API_KEY found in .env."
+
+    # We create a very specific query to get numbers and current dates
+    query = f"average daily cost for {style} travel in {city} 2024 2025 hotel food transport activities"
+    
+    try:
+        response = requests.post(
+            "https://api.tavily.com/search",
+            json={
+                "api_key": api_key,
+                "query": query,
+                "search_depth": "advanced",
+                "max_results": 3
+            },
+            timeout=10
+        )
+        response.raise_for_status()
+        results = response.json().get("results", [])
+        
+        if not results:
+            return "No real-time data found for this destination. Relying on baseline estimates."
+
+        # We combine the top 3 search results into one block of text for Gemini to analyze
+        context = "\n\n".join([f"Source: {r['url']}\nContent: {r['content']}" for r in results])
+        return context
+    except Exception as e:
+        return f"Real-time search failed: {str(e)}. Relying on baseline estimates."
+

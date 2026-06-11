@@ -1,0 +1,87 @@
+{
+  "goal": "Plan a romantic 4-day trip to Paris for a couple.",
+  "start_city": "Tokyo",
+  "city": "Paris",
+  "people": 2,
+  "nights": 5,
+  "duration_days": 5,
+  "budget": {
+    "overall_total": 6182,
+    "flight_details": {
+      "category": "Flight Estimate",
+      "cost_per_person": 1500,
+      "total_flight_cost": 3000
+    },
+    "breakdown": {
+      "flights": 3000,
+      "lodging": 1000,
+      "meals_and_dining": 840,
+      "local_transport": 300,
+      "activities_and_tours": 480,
+      "emergency_buffer": 562
+    }
+  },
+  "transit": {
+    "recommended": "Metro & Walking",
+    "backup": "Rideshare apps (Uber/Grab/Bolt)",
+    "tip": "Get a local city-pass for unlimited travel."
+  },
+  "travel_risk": {
+    "safety_level": "Low",
+    "considerations": [
+      "Check current travel advisories",
+      "Keep a digital copy of your passport",
+      "Use a secure VPN for public Wi-Fi",
+      "Research local emergency numbers"
+    ]
+  },
+  "itinerary": [
+    {
+      "day": 1,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    },
+    {
+      "day": 2,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    },
+    {
+      "day": 3,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    },
+    {
+      "day": 4,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    },
+    {
+      "day": 5,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    }
+  ],
+  "final_plan": "## OmniTrip Dossier: Romantic Parisian Escape\n\n**Project:** A 5-Night Romantic Sojourn in Paris\n**Travelers:** 2 Adults\n**Departure City:** Tokyo\n**Destination:** Paris, France\n**Duration:** 5 Nights / 5 Full Days\n\n---\n\n### 1. Introduction\n\nOmniTrip is delighted to present this meticulously crafted travel dossier for your romantic escape to **Paris**, France. Designed for discerning travelers, this itinerary offers a blend of iconic sights, cultural immersion, and intimate experiences to ensure an unforgettable journey for two. From the bustling streets of Tokyo, prepare to be swept away by the unparalleled charm and elegance of the City of Love.\n\n---\n\n### 2. Destination Overview: Paris, France\n\n**Paris**, the capital of France, stands as a global center for art, fashion, gastronomy, and culture. Revered as one of the world's most romantic cities, it offers an enchanting backdrop for couples, with its stunning architecture, picturesque Seine River, world-class museums, and charming cobblestone streets. Each district, or *arrondissement*, boasts its unique character, promising a rich tapestry of experiences.\n\n---\n\n### 3. Proposed Romantic Itinerary (5 Nights / 5 Days)\n\nThis itinerary is designed to maximize your romantic experience, balancing iconic landmarks with intimate moments.\n\n*   **Day 1: Arrival & Enchanting Evenings**\n    *   **Morning/Afternoon:** Arrive at Paris Charles de Gaulle (CDG) Airport, transfer to your luxury accommodation. Settle in and refresh.\n    *   **Afternoon:** Gentle stroll around your hotel's neighborhood, perhaps in **Le Marais** or **Saint-Germain-des-Prés**, soaking in the Parisian atmosphere.\n    *   **Evening:** Indulge in a romantic dinner cruise along the **Seine River**, offering breathtaking views of illuminated landmarks, culminating with the sparkling **Eiffel Tower**.\n\n*   **Day 2: Art, Grandeur & Iconic Views**\n    *   **Morning:** Immerse yourselves in art and history at the **Louvre Museum**, focusing on key masterpieces.\n    *   **Afternoon:** Leisurely walk through the **Tuileries Garden**, leading to **Place de la Concorde** and a romantic stroll up the **Champs-Élysées**.\n    *   **Evening:** Ascend the **Arc de Triomphe** for panoramic sunset views over Paris, followed by dinner at a chic brasserie near Étoile.\n\n*   **Day 3: Bohemian Charms & Panoramic Splendour**\n    *   **Morning:** Explore the artistic village of **Montmartre**, visiting the stunning **Sacré-Cœur Basilica** for its incredible city views. Wander through **Place du Tertre** to observe local artists.\n    *   **Afternoon:** Discover the charming streets and hidden staircases of Montmartre, perhaps visiting the **Dalí Paris** museum.\n    *   **Evening:** Enjoy a traditional French dinner in Montmartre, soaking in its bohemian ambiance.\n\n*   **Day 4: Parisian Elegance & Latin Quarter Romance**\n    *   **Morning:** Visit the exterior of the magnificent **Notre Dame Cathedral** (current restoration updates pending), then explore the historic **Île de la Cité** and **Île Saint-Louis**.\n    *   **Afternoon:** Delve into the intellectual and bohemian atmosphere of the **Latin Quarter**, visiting the **Panthéon** or exploring Shakespeare and Company bookstore.\n    *   **Evening:** An intimate dinner in the Latin Quarter, perhaps followed by a visit to a classic jazz club.\n\n*   **Day 5: Fashion, Farewell & Departure**\n    *   **Morning:** Indulge in some last-minute luxury shopping along **Rue Saint-Honoré** or explore the elegant boutiques of **Le Marais**. Enjoy a final Parisian breakfast at a charming café.\n    *   **Afternoon:** Depending on flight schedules, enjoy a visit to a smaller museum like the **Musée d'Orsay** or simply relax in a park.\n    *   **Evening:** Transfer to Paris Charles de Gaulle (CDG) Airport for your departure, carrying cherished memories of your romantic Parisian escape.\n\n---\n\n### 4. Budget Overview\n\nBelow is an estimated budget for your 5-night romantic trip to Paris for two, departing from **Tokyo**. Please note that costs can fluctuate based on booking time, seasonality, and personal preferences.\n\n**Flight costs were estimated based on a round-trip journey for two individuals departing from Tokyo to Paris**, considering typical long-haul international fares for a comfortable travel class.\n\n| Category             | Cost   | Description                                                                 |\n| :------------------- | :----- | :-------------------------------------------------------------------------- |\n| Flight Estimate      | €3,000 | Round-trip international flights for 2 from Tokyo to Paris.                 |\n| Lodging              | €1,000 | 5 nights accommodation in a 4-5 star hotel (average €200/night).           |\n| Meals & Dining       | €840   | Daily budget for romantic dinners, lunches, and Parisian cafes (€84/day/couple). |\n| Local Transport      | €300   | Metro passes, occasional taxis/rideshares, airport transfers.             |\n| Activities & Tours   | €480   | Museum entries, Eiffel Tower access, Seine River cruise, other attractions. |\n| Emergency Buffer     | €562   | Contingency for unforeseen expenses or spontaneous experiences.             |\n| **GRAND TOTAL**      | **€6,182** | **Estimated total cost for the 5-night romantic trip.**                       |\n\n---\n\n### 5. Local Transportation in Paris\n\n**Recommended:** The Paris Metro is highly efficient, extensive, and the most convenient way to navigate the city. Walking is also highly recommended to discover the city's hidden gems and immerse yourselves in the Parisian atmosphere.\n**Backup:** Rideshare apps such as Uber are readily available for convenience, especially for late-night travel or when carrying luggage.\n**Tip:** Consider purchasing a \"Paris Visite\" pass for unlimited travel on public transport, which can be cost-effective for the duration of your stay.\n\n---\n\n### 6. Safety & Travel Considerations\n\n**Safety Level:** Low Risk. Paris is generally a safe city for tourists.\n**Key Considerations:**\n*   Check current travel advisories from your government for any updated information.\n*   Always keep a digital copy of your passport and other important documents on a secure cloud service.\n*   Use a secure VPN (Virtual Private Network) if accessing personal information over public Wi-Fi networks.\n*   Familiarize yourselves with local emergency numbers (e.g., 112 for all emergencies) upon arrival.\n*   Be mindful of your belongings, particularly in crowded tourist areas and on public transport, to guard against pickpocketing.\n\n---\n\n### 7. Next Steps\n\nTo proceed with planning your exquisite Parisian adventure, we recommend the following professional next steps:\n\n1.  **Review and Approval of Itinerary & Budget:** Please review this detailed dossier at your convenience. Your final approval is required before we proceed with any bookings or financial commitments.\n2.  **Visa & Entry Requirements Confirmation:** While Japanese citizens typically do not require a visa for short tourist stays in France, it is always prudent to confirm the latest entry requirements for all travelers.\n3.  **Flight & Accommodation Booking Strategy:** Upon your approval, we will discuss optimal booking windows for securing preferred flights and your chosen luxury accommodation to ensure the best value and availability.\n4.  **Dining & Activity Reservations:** We will begin coordinating reservations for recommended restaurants, particularly those requiring advance booking, and secure tickets for major attractions and specific romantic experiences.\n5.  **Comprehensive Travel Insurance & Pre-Departure Briefing:** We will present options for comprehensive travel insurance to safeguard your investment and schedule a pre-departure briefing to cover all final details and answer any remaining questions.",
+  "feedback_used": {
+    "score": 0.67,
+    "checks": {
+      "budget": true,
+      "safety": true,
+      "human_approval": false,
+      "next_actions": false,
+      "tool_evidence": true,
+      "risk_mitigation": true
+    },
+    "feedback": [
+      "Add human approval gates before spending money.",
+      "End with exactly 5 concrete next actions."
+    ]
+  },
+  "saved_path": "outputs\\trip_run_20260609_154100.json"
+}

@@ -1,3 +1,4 @@
+from datetime import datetime
 import json
 import os
 from typing import Any
@@ -20,22 +21,36 @@ CRITICAL REQUIREMENTS:
 def generate_final_plan(
     goal: str, start_city: str, city: str, people: int, nights: int, duration_days: int,
     budget: dict[str, Any], transit: dict[str, Any], travel_risk: dict[str, Any],
-    itinerary: list[dict[str, Any]], feedback: dict[str, Any] | None,
+    itinerary: list[dict[str, Any]], feedback: dict[str, Any] | None, web_context: str,
 ) -> str:
+    # Get current date to stop the AI from mentioning 2023
+    current_date = datetime.now().strftime("%B %d, %Y")
+
     prompt = f"""
 {SYSTEM_PROMPT}
+
+CURRENT DATE: {current_date}
+
+REAL-TIME WEB SEARCH RESULTS (PRIORITY):
+{web_context}
 
 User Goal: {goal}
 Route: {start_city} ✈️ {city}
 Travelers: {people} | Duration: {nights} Nights ({duration_days} Days)
 
-Tool Data:
-Budget Data: {json.dumps(budget, indent=2)}
-Transit Data: {json.dumps(transit, indent=2)}
-Risk Data: {json.dumps(travel_risk, indent=2)}
-Itinerary Data: {json.dumps(itinerary, indent=2)}
+BASELINE ESTIMATES (Use only as a fallback if web results are vague):
+Budget: {json.dumps(budget, indent=2)}
+Transit: {json.dumps(transit, indent=2)}
+Risk: {json.dumps(travel_risk, indent=2)}
+Itinerary: {json.dumps(itinerary, indent=2)}
 
 Prior Feedback: {json.dumps(feedback or {}, indent=2)}
+
+INSTRUCTIONS:
+1. Analyze the REAL-TIME WEB SEARCH RESULTS first.
+2. Use the most current pricing found in the search results for the Budget Table.
+3. If the web results are missing a specific cost, use the BASELINE ESTIMATES.
+4. Ensure the final plan is realistic and current for {current_date}.
 """
     api_key = os.getenv("GOOGLE_API_KEY")
     

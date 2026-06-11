@@ -1,0 +1,82 @@
+{
+  "goal": "Plan a romantic 4-day trip to Paris for a couple.",
+  "start_city": "New York",
+  "city": "Paris",
+  "people": 2,
+  "nights": 3,
+  "duration_days": 4,
+  "budget": {
+    "overall_total": 5245.0,
+    "style": "Luxury",
+    "flight_details": {
+      "category": "Flight Estimate",
+      "cost_per_person": 800,
+      "total_flight_cost": 1600
+    },
+    "breakdown": {
+      "flights": 1600,
+      "lodging": 1080.0,
+      "meals_and_dining": 1008.0,
+      "local_transport": 432.0,
+      "activities_and_tours": 648.0,
+      "emergency_buffer": 477
+    }
+  },
+  "transit": {
+    "recommended": "Metro & Walking",
+    "backup": "Rideshare apps (Uber/Grab/Bolt)",
+    "tip": "Get a local city-pass for unlimited travel."
+  },
+  "travel_risk": {
+    "safety_level": "Low",
+    "considerations": [
+      "Check current travel advisories",
+      "Keep a digital copy of your passport",
+      "Use a secure VPN for public Wi-Fi",
+      "Research local emergency numbers"
+    ]
+  },
+  "itinerary": [
+    {
+      "day": 1,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    },
+    {
+      "day": 2,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    },
+    {
+      "day": 3,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    },
+    {
+      "day": 4,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    }
+  ],
+  "final_plan": "# OmniTrip Global Travel Dossier: A Romantic Parisian Escapade\n\n**Client:** Valued Couple\n**Destination:** Paris, France\n**Travelers:** 2 Adults\n**Duration:** 3 Nights / 4 Days\n**Departure City:** New York, USA\n**Current Date:** June 11, 2026\n**Trip Style:** High-End Romantic Luxury\n\n---\n\n## I. Executive Summary\n\nOmniTrip is delighted to present this bespoke travel dossier for a romantic, high-end 4-day (3-night) luxury journey to **Paris**, the City of Love. This itinerary is meticulously crafted to offer an unforgettable experience, blending iconic landmarks with intimate moments, fine dining, and seamless travel arrangements. Our recommendations prioritize exclusivity, comfort, and personalized service, ensuring a truly exceptional romantic getaway.\n\n---\n\n## II. Luxury Itinerary: Paris - A Romantic Journey\n\nThis curated itinerary balances iconic Parisian experiences with opportunities for intimate moments and sophisticated leisure.\n\n**Day 1: Arrival & Seine Splendor**\n*   **Morning:** Depart from New York (JFK/EWR) to **Paris** (CDG). Upon arrival, a private chauffeur will greet you for a comfortable transfer to your luxurious hotel in the elegant **Saint-Germain-des-Prés** or historic **Le Marais** district. Settle in and unwind.\n*   **Afternoon:** Enjoy a gentle introductory stroll through your charming neighborhood, perhaps a visit to the exterior of the magnificent **Notre Dame Cathedral** and the quaint streets of **Île de la Cité**. Indulge in a classic Parisian café experience.\n*   **Evening:** A romantic welcome dinner awaits at a pre-booked Michelin-starred restaurant, followed by an exclusive **Seine River dinner cruise**, offering breathtaking views of illuminated monuments such as the **Louvre**, **Musée d'Orsay**, and the sparkling **Eiffel Tower**.\n\n**Day 2: Artistic Grandeur & Eiffel Tower Romance**\n*   **Morning:** Embark on a private, guided tour of the world-renowned **Louvre Museum**, allowing you to explore its masterpieces with expert insights and avoid the crowds.\n*   **Afternoon:** Leisurely wander through the beautifully manicured **Tuileries Garden**, leading to a sophisticated shopping experience along **Rue Saint-Honoré** or a leisurely walk up the grand **Champs-Élysées** to the majestic **Arc de Triomphe**.\n*   **Evening:** Savor a gourmet dinner at an acclaimed restaurant with stunning views of the **Eiffel Tower**. Conclude your day with an ascent to the summit of the **Eiffel Tower** for an unforgettable champagne toast as the city lights twinkle below.\n\n**Day 3: Royal Extravaganza & Bohemian Charm**\n*   **Morning:** A private chauffeur will transport you to the opulent **Palace of Versailles**. Enjoy a pre-arranged, private guided tour of the Royal Apartments, the awe-inspiring Hall of Mirrors, and a leisurely exploration of the magnificent gardens.\n*   **Afternoon:** Return to **Paris** and immerse yourselves in the bohemian charm of **Montmartre**. Visit the iconic **Sacré-Cœur Basilica**, explore the artistic hub of Place du Tertre, and perhaps commission a portrait from a local artist.\n*   **Evening:** Indulge in a romantic dinner at a charming bistro in Montmartre, or experience the dazzling spectacle of a classic Parisian cabaret show like the **Moulin Rouge** (optional, requires advance booking).\n\n**Day 4: Parisian Farewell & Departure**\n*   **Morning:** Enjoy a leisurely and decadent Parisian breakfast at your hotel or a renowned patisserie. Take some time for last-minute souvenir shopping or a final romantic stroll.\n*   **Late Morning/Lunch:** A relaxed brunch at a charming local eatery.\n*   **Afternoon:** Your private chauffeur will provide a seamless transfer back to **Paris** (CDG) for your departure flight to New York.\n\n---\n\n## III. Estimated Budget Breakdown (USD)\n\nThis budget is tailored for a high-end, romantic luxury trip for two, based on real-time web search results and professional estimates for June 2026 travel.\n\n**Flight Estimation Logic:** Flights from New York (USA) to Paris were estimated using current airline pricing trends for premium economy or business class (non-peak rates for comfort and convenience for a luxury trip) as indicated by Civitatis, which quotes international flights from the US at $400-$1,200 per person. We have selected the higher end to reflect a luxury travel experience with desirable flight times and potential comfort upgrades.\n\n| Category                | Cost (USD) | Description                                                                                                                                                                                                                                                                                                                             |\n| :---------------------- | :--------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |\n| Flights                 | $2,200     | Round-trip airfare for two from New York (JFK/EWR) to Paris (CDG), estimated at $1,100 per person for premium economy or comfortable direct flights, aligned with high-end estimates from web sources.                                                                                                                                           |\n| Accommodation (3 nights)| $3,300     | 3 nights in a 5-star luxury hotel in a desirable district (e.g., Saint-Germain-des-Prés, Le Marais), averaging $1,100 per night, reflecting rates for \"Palace\" hotels exceeding $1,000/night as per Civitatis.                                                                                                                            |\n| Meals & Dining          | $2,000     | High-end dining for 4 days for two, including 3 Michelin-starred or fine dining experiences ($1200), 4 gourmet lunches ($500), and 4 upscale breakfasts/café experiences ($300). Based on luxury food estimates from bnesim and radicalstorage.                                                                                             |\n| Local Transport         | $600       | Private airport transfers (round-trip) and daily private chauffeur services or premium rideshares for city exploration and day trips to Versailles, ensuring comfort and efficiency. Aligns with luxury transport estimates from radicalstorage and bnesim's mention of chauffeur services.                                                |\n| Activities & Tours      | $2,550     | Includes a private guided Louvre tour ($500), Eiffel Tower summit access with champagne ($250), private Seine dinner cruise ($500), private transfer and guided tour to Versailles ($1,000), and other museum entries/exclusive experiences/souvenirs ($300). Reflects luxury attraction costs from radicalstorage and Civitatis. |\n| Emergency Buffer        | $1,065     | Approximately 10% of the total estimated cost, allocated for unforeseen expenses, spontaneous splurges, or minor travel adjustments.                                                                                                                                                                                                    |\n| **GRAND TOTAL**         | **$11,715**|                                                                                                                                                                                                                                                                                                                                         |\n\n*Note: All costs are estimates for June 2026 and are subject to change based on seasonality, booking lead times, specific vendor choices, and real-time exchange rates. This budget is for a luxury experience and can be adjusted based on specific preferences.*\n\n---\n\n## IV. Next Steps\n\nTo transform this dossier into your dream Parisian reality, OmniTrip recommends the following professional next steps:\n\n1.  **Visa & Entry Requirements Confirmation:** Verify current French entry requirements for US citizens, ensuring all passport validity and any potential visa or ETIAS (European Travel Information and Authorisation System) requirements are met well in advance of your travel date in 2026.\n2.  **Flight & Accommodation Booking:** Initiate booking for premium economy or business class flights from New York to Paris and secure your luxury hotel accommodations. Booking at least 3-6 months in advance is critical to secure preferred rates and availability for luxury options, especially for popular 2026 dates.\n3.  **Private Tours & Dining Reservations:** OmniTrip will assist in pre-booking all private tours (Louvre, Versailles) and securing reservations at your selected Michelin-starred restaurants and the Seine dinner cruise. Key activities, especially for luxury experiences, require significant advance booking.\n4.  **Comprehensive Travel Insurance:** Secure a comprehensive travel insurance policy that covers trip cancellation, medical emergencies, lost luggage, and any other unforeseen events, providing peace of mind for your luxury journey.\n5.  **Currency Exchange & Connectivity:** Advise on optimal currency exchange strategies (Euros) and local connectivity options (e.g., international roaming, local SIM cards, or eSIMs) to ensure seamless communication and financial transactions throughout your trip.",
+  "feedback_used": {
+    "score": 0.67,
+    "checks": {
+      "budget": true,
+      "safety": true,
+      "human_approval": false,
+      "next_actions": true,
+      "tool_evidence": true,
+      "risk_mitigation": false
+    },
+    "feedback": [
+      "Add human approval gates before spending money.",
+      "Name risks and backup plans."
+    ]
+  },
+  "saved_path": "outputs\\trip_run_20260611_185049.json"
+}

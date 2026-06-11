@@ -1,0 +1,87 @@
+{
+  "goal": "Plan a romantic 4-day trip to Paris for a couple.",
+  "start_city": "Tokyo",
+  "city": "Paris",
+  "people": 2,
+  "nights": 5,
+  "duration_days": 5,
+  "budget": {
+    "overall_total": 6182,
+    "flight_details": {
+      "category": "Flight Estimate",
+      "cost_per_person": 1500,
+      "total_flight_cost": 3000
+    },
+    "breakdown": {
+      "flights": 3000,
+      "lodging": 1000,
+      "meals_and_dining": 840,
+      "local_transport": 300,
+      "activities_and_tours": 480,
+      "emergency_buffer": 562
+    }
+  },
+  "transit": {
+    "recommended": "Metro & Walking",
+    "backup": "Rideshare apps (Uber/Grab/Bolt)",
+    "tip": "Get a local city-pass for unlimited travel."
+  },
+  "travel_risk": {
+    "safety_level": "Low",
+    "considerations": [
+      "Check current travel advisories",
+      "Keep a digital copy of your passport",
+      "Use a secure VPN for public Wi-Fi",
+      "Research local emergency numbers"
+    ]
+  },
+  "itinerary": [
+    {
+      "day": 1,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    },
+    {
+      "day": 2,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    },
+    {
+      "day": 3,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    },
+    {
+      "day": 4,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    },
+    {
+      "day": 5,
+      "morning": "Local landmark exploration",
+      "afternoon": "Cultural activity or museum",
+      "evening": "Dinner and local leisure"
+    }
+  ],
+  "final_plan": "## OmniTrip Global Travel Dossier: Romantic Parisian Escape\n\n**Project Title:** Romantic Parisian Escape: Tokyo to Paris\n**Client:** Esteemed Couple\n**Duration:** 5 Nights / 5 Days\n**Departure City:** Tokyo, Japan\n**Destination:** Paris, France\n\n---\n\n### I. Executive Summary\n\nOmniTrip is delighted to present this meticulously crafted travel dossier for your romantic 5-night escapade to **Paris**, the City of Love. Departing from **Tokyo**, this itinerary is designed to immerse you in the quintessential Parisian experience, combining iconic landmarks, cultural treasures, and exquisite dining. We've structured this proposal to offer a blend of curated experiences, with ample flexibility for personalized moments, all within a well-managed budget.\n\n---\n\n### II. Travel Overview\n\n*   **Destination:** Paris, France\n*   **Travelers:** 2 Adults\n*   **Duration:** 5 Nights (5 Days)\n*   **Departure Point:** Tokyo, Japan\n*   **Theme:** Romantic Getaway, Culture & Gastronomy\n\n---\n\n### III. Estimated Budget Overview\n\nBelow is a detailed breakdown of the estimated costs for your 5-night romantic journey to Paris. All figures are presented in USD for clarity.\n\n**Flight Estimation Logic:**\nThe flight estimate of $3,000 for two persons ($1,500 per person) is based on the average round-trip fares for premium economy or comfortable economy class from **Tokyo** (e.g., Narita International Airport - NRT or Haneda Airport - HND) to **Paris** (Charles de Gaulle Airport - CDG). This estimation considers a typical booking window and aims to provide comfortable long-haul travel, acknowledging the significant distance between these two global hubs.\n\n| Category                | Cost  | Description                                                         |\n| :---------------------- | :---- | :------------------------------------------------------------------ |\n| Flight Estimate         | 3000  | Round-trip from Tokyo to Paris for 2 persons ($1500 per person)     |\n| Accommodation           | 1000  | 5 nights in a romantic Parisian hotel (e.g., boutique hotel, 4-star) |\n| Dining & Gastronomy     | 840   | Daily meals, including special romantic dinners and casual dining   |\n| Local Transportation    | 300   | Metro passes, occasional taxi/rideshare for convenience             |\n| Experiences & Activities | 480   | Museum entries, guided tours, special events, and attractions       |\n| Contingency             | 562   | Recommended buffer for unforeseen expenses or spontaneous indulgences |\n| **GRAND TOTAL**         | **6182** | **Total estimated cost for your Parisian romantic escape**          |\n\n---\n\n### IV. Proposed Itinerary\n\nThis provisional itinerary offers a balanced mix of exploration, culture, and leisure, allowing you to savor the romance of **Paris**.\n\n*   **Day 1: Parisian Arrival & Charm**\n    *   **Morning:** Arrival in Paris, check-in to your accommodation.\n    *   **Afternoon:** Initial local landmark exploration (e.g., stroll around your chosen arrondissement).\n    *   **Evening:** Romantic dinner and local leisure (e.g., enjoying a café terrace).\n\n*   **Day 2: Iconic Sights & Art**\n    *   **Morning:** Local landmark exploration (e.g., Eiffel Tower ascent, Champs-Élysées stroll).\n    *   **Afternoon:** Cultural activity or museum visit (e.g., Louvre Museum or Musée d'Orsay).\n    *   **Evening:** Dinner and local leisure (e.g., a Seine River cruise).\n\n*   **Day 3: Historic Quarters & Hidden Gems**\n    *   **Morning:** Local landmark exploration (e.g., Montmartre and Sacré-Cœur Basilica).\n    *   **Afternoon:** Cultural activity or museum (e.g., atelier visit, exploring Le Marais).\n    *   **Evening:** Dinner and local leisure (e.g., a romantic show or a classical concert).\n\n*   **Day 4: Gardens, Palaces & Relaxation**\n    *   **Morning:** Local landmark exploration (e.g., Luxembourg Gardens or Tuileries Garden).\n    *   **Afternoon:** Cultural activity or museum (e.g., a day trip to Versailles Palace, or boutique shopping).\n    *   **Evening:** Dinner and local leisure (e.g., enjoying local gastronomy in Saint-Germain-des-Prés).\n\n*   **Day 5: Farewell Paris**\n    *   **Morning:** Final local landmark exploration or souvenir shopping.\n    *   **Afternoon:** Cultural activity or museum (e.g., revisiting a favorite spot or a final gallery visit).\n    *   **Evening:** Farewell dinner before preparing for departure.\n\n---\n\n### V. Transportation & Logistics\n\nGetting around **Paris** is convenient and efficient, enhancing your romantic journey.\n\n*   **Recommended Transit:** The **Parisian Metro** and **Walking** are highly recommended for navigating the city. The Metro provides excellent coverage, and walking allows you to discover charming streets and hidden gems.\n*   **Backup Transit:** For convenience or specific routes, **Rideshare applications** such as Uber or Bolt are readily available. Taxis are also an option.\n*   **OmniTrip Tip:** Consider acquiring a **Paris Visite travel pass** or a **Navigo Découverte** (if staying for a full week) for unlimited travel on public transport, offering both cost-effectiveness and ease of use.\n\n---\n\n### VI. Risk Mitigation & Safety\n\nYour safety and peace of mind are paramount to OmniTrip. **Paris** generally maintains a \"Low\" safety level for tourists, but proactive measures are always advised.\n\n*   **General Safety Level:** Low\n*   **Risk Mitigation Strategies:**\n    *   **Travel Advisories:** Always check the latest international travel advisories for France before and during your trip.\n    *   **Document Security:** Keep a digital copy of your passport, visa, and important travel documents on a secure cloud service or email, separate from physical copies.\n    *   **Secure Connectivity:** Utilize a secure VPN (Virtual Private Network) when connecting to public Wi-Fi networks to protect your personal data.\n    *   **Emergency Contacts:** Familiarize yourself with local emergency numbers (e.g., 112 for all emergencies in Europe) and the location of your country's embassy or consulate in Paris.\n    *   **Awareness:** Be mindful of your surroundings, especially in crowded tourist areas, and safeguard personal belongings to prevent petty theft.\n\n---\n\n### VII. Next Steps\n\nTo transform this proposal into your unforgettable romantic Parisian reality, please consider the following actionable steps:\n\n1.  **OmniTrip Consultation & Approval:** Schedule a follow-up consultation with your dedicated OmniTrip advisor to discuss and finalize this proposal, providing your explicit approval before any bookings are initiated.\n2.  **Visa & Entry Requirements:** Confirm specific visa requirements for your nationality entering France (Schengen Area), and ensure all passports are valid for at least six months beyond your intended departure date.\n3.  **Optimal Flight Booking Window:** Monitor flight prices and aim to book your Tokyo-Paris flights approximately 3-6 months in advance for the best rates and availability on preferred airlines.\n4.  **Accommodation Customization:** Discuss any specific preferences for your Parisian lodging (e.g., a boutique hotel in Le Marais, a hotel with an Eiffel Tower view, specific amenities) to allow OmniTrip to secure the perfect romantic stay.\n5.  **Activity & Dining Personalization:** Refine your itinerary by selecting specific attractions, guided tours, and romantic dining experiences in Paris, ensuring they align perfectly with your shared interests and desires.",
+  "feedback_used": {
+    "score": 0.67,
+    "checks": {
+      "budget": true,
+      "safety": true,
+      "human_approval": false,
+      "next_actions": true,
+      "tool_evidence": true,
+      "risk_mitigation": false
+    },
+    "feedback": [
+      "Add human approval gates before spending money.",
+      "Name risks and backup plans."
+    ]
+  },
+  "saved_path": "outputs\\trip_run_20260610_145552.json"
+}
