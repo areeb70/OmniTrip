@@ -182,7 +182,7 @@ MIT
 <img width="112.9" height="93.8" alt="Result Plan3 updated" src="https://github.com/user-attachments/assets/c3f53e32-a07d-47a6-85fb-d05d534e5f2c" />
 <img width="140.0" height="92.2" alt="Budget distribution" src="https://github.com/user-attachments/assets/a6b65543-ced8-4126-a7a2-4dab0d813206" />
 <img width="154.8" height="92.0" alt="Map" src="https://github.com/user-attachments/assets/c9b75271-aeaa-4dd1-b2d8-30792270a235" />
-<img width="151.4" height="10.16" alt="Print plan feature updated" src="https://github.com/user-attachments/assets/a6974381-bbc4-4cd4-8eeb-e264508e18c4" />
+<img width="151.4" height="101.6" alt="Print plan feature updated" src="https://github.com/user-attachments/assets/a6974381-bbc4-4cd4-8eeb-e264508e18c4" />
 <img width="188.5" height="93.0" alt="Phoenix dashboard" src="https://github.com/user-attachments/assets/61ffed8f-e2ac-48ab-b701-3bdf7a04f752" />
 <img width="143.1" height="59.7" alt="tracing" src="https://github.com/user-attachments/assets/634887b6-51f1-4399-86cd-01d5ffaeb3f1" />
 <img width="190.1" height="69.0" alt="Tracing spans" src="https://github.com/user-attachments/assets/db60c90c-b65c-4c87-ae4d-9fae22cdba1b" />
