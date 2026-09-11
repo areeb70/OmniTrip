@@ -171,3 +171,18 @@ Omnitrip is a Gemini-powered operations agent for travellers. It helps families 
 ## License
 
 MIT
+
+
+<img width="1362" height="718" alt="Travel Goal" src="https://github.com/user-attachments/assets/057684f3-1cf1-4012-80a2-1e60b7d110e4" />
+<img width="1431" height="597" alt="tracing" src="https://github.com/user-attachments/assets/634887b6-51f1-4399-86cd-01d5ffaeb3f1" />
+<img width="1901" height="690" alt="Tracing spans" src="https://github.com/user-attachments/assets/db60c90c-b65c-4c87-ae4d-9fae22cdba1b" />
+<img width="1129" height="938" alt="Result Plan3 updated" src="https://github.com/user-attachments/assets/c3f53e32-a07d-47a6-85fb-d05d534e5f2c" />
+<img width="1114" height="961" alt="Result Plan2 updated" src="https://github.com/user-attachments/assets/999652f8-d898-4902-bf5d-b52eab149257" />
+<img width="1204" height="958" alt="Result Plan1 updated" src="https://github.com/user-attachments/assets/ddf78514-d8be-490f-81f0-6fc01cc4b8d6" />
+<img width="1514" height="1016" alt="Print plan feature updated" src="https://github.com/user-attachments/assets/a6974381-bbc4-4cd4-8eeb-e264508e18c4" />
+<img width="1885" height="930" alt="Phoenix dashboard" src="https://github.com/user-attachments/assets/61ffed8f-e2ac-48ab-b701-3bdf7a04f752" />
+<img width="1374" height="906" alt="Offline mode" src="https://github.com/user-attachments/assets/2db3f88a-e8c8-4745-87f9-153ab99799ba" />
+<img width="1548" height="920" alt="Map" src="https://github.com/user-attachments/assets/c9b75271-aeaa-4dd1-b2d8-30792270a235" />
+<img width="1321" height="705" alt="Logistics" src="https://github.com/user-attachments/assets/0da7537f-6b96-45e5-abdc-e49e92ab6388" />
+<img width="1421" height="787" alt="LandingPage" src="https://github.com/user-attachments/assets/e2be8e55-e2f5-4105-9ff5-8f646aa05568" />
+<img width="1400" height="922" alt="Budget distribution" src="https://github.com/user-attachments/assets/a6b65543-ced8-4126-a7a2-4dab0d813206" />
